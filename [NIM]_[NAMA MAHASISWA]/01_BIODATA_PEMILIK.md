@@ -1,0 +1,11 @@
+# 📑 BUNG-GIT 2026: BUKU UNGU DIGITAL OSPEK HIMA-TRPL
+
+## 👤 I. DATA DIRI MAHASISWA BARU
+* **Nama Lengkap:** [NAMA_LENGKAP_MAHASISWA_BARU]
+* **NIM:** [NIM_MAHASISWA_BARU]
+* **Kelompok:** [NOMOR_KELOMPOK]
+* **Asal Daerah:** [ASAL_DAERAH]
+* **Fun Fact:** [FUN_FACT]
+
+---
+
