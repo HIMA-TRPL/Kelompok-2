@@ -5,7 +5,7 @@
 ## 🏛️ Divisi BPH (Badan Pengurus Harian)
 
 ### [01] BPH - [NAMA_PANITIA_01]
-* <img src="assets/panitia/template.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [NAMA_PANITIA_01]
 * **Jabatan:** [JABATAN]
 * **TTL:** [TTL]
@@ -39,7 +39,7 @@
 ## 🏛️ Divisi Dagri (Dalam Negeri)
 
 ### [04] Dagri - [NAMA_PANITIA_04]
-* ikuti langkah nomer 1 untuk menampilkan gambar [GANTI INI]
+* <img src="assets/PANITIA/Dagri/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [NAMA_PANITIA_04]
 * **Jabatan:** [JABATAN]
 * **TTL:** [TTL]
@@ -73,7 +73,7 @@
 ## 🏛️ Divisi PSDM (Pengembangan Sumber Daya Mahasiswa)
 
 ### [07] PSDM - [NAMA_PANITIA_07]
-* ikuti langkah nomer 1 untuk menampilkan gambar [GANTI INI]
+* <img src="assets/PANITIA/PSDM/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [NAMA_PANITIA_07]
 * **Jabatan:** [JABATAN]
 * **TTL:** [TTL]
@@ -107,7 +107,7 @@
 ## 🏛️ Divisi Sosma (Sosial Masyarakat)
 
 ### [10] Sosma - [NAMA_PANITIA_10]
-* ikuti langkah nomer 1 untuk menampilkan gambar [GANTI INI]
+* <img src="assets/PANITIA/Sosma/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [NAMA_PANITIA_10]
 * **Jabatan:** [JABATAN]
 * **TTL:** [TTL]
@@ -141,7 +141,7 @@
 ## 🏛️ Divisi PDD (Publikasi, Dokumentasi & Desain)
 
 ### [13] PDD - [NAMA_PANITIA_13]
-* ikuti langkah nomer 1 untuk menampilkan gambar [GANTI INI]
+* <img src="assets/PANITIA/PDD/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [NAMA_PANITIA_13]
 * **Jabatan:** [JABATAN]
 * **TTL:** [TTL]
@@ -175,7 +175,7 @@
 ## 🏛️ Divisi DKM (Dana & Kewirausahaan Mahasiswa)
 
 ### [16] DKM - [NAMA_PANITIA_16]
-* ikuti langkah nomer 1 untuk menampilkan gambar [GANTI INI]
+* <img src="assets/PANITIA/DKM/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [NAMA_PANITIA_16]
 * **Jabatan:** [JABATAN]
 * **TTL:** [TTL]
