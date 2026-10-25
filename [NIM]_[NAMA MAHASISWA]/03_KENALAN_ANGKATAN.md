@@ -5,7 +5,7 @@
 ## 🏫 Kelas 1A
 
 ### 01 264311001 - Adhinia Alkurratu Ainni
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/Adhinia.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Adhinia Alkurratu Ainni
 * **NIM:** 264311001
 * **TTL:** Madiun, 11 Desember 2007
