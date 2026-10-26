@@ -8,7 +8,4 @@
 * **Nama Kelompok:** DJANGO
 * **Asal Daerah:** Kecamatan Dagangan Kabupaten Madiun
 * **Asal Sekolah:** SMKN 1 GEGER
-* **Fun Fact:** EX IMO 173 #CUMABISALUKAS
-
----
-
+* **Fun Fact:** Game garis keras
