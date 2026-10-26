@@ -5,7 +5,7 @@
 ## 🏫 Kelas 1A
 
 ### [01] [264311001] - [ADHINIA ALKURRATU AINNI]
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="001_Adhenia.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [ADHINIA ALKURRATU AINNIWA]
 * **NIM:** [264311001]
 * **TTL:** [MADIUN, 11 DESEMBER 2007]
