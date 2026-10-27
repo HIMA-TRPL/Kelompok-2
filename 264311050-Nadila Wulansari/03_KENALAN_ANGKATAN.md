@@ -5,7 +5,7 @@
 ## 🏫 Kelas 1A
 
 ### 01 264311001 - Adhinia Alkurratu Ainni
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/001_adhenia.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/001_Adhenia.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Adhinia Alkurratu Ainni
 * **NIM:** 264311001
 * **TTL:** Madiun, 11 Desember 2007
@@ -18,6 +18,13 @@
 ### 02 264311002 - Adly Nourus Zaman Assidiq
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/002.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Adly Nourus Zaman Assidiq
+* *NIM:* 264311002
+* *TTL:* Malaysia, 08 Januari 2008
+* *Nomer Handphone:* 081315871890
+* *Nama Kelompok:* Flask
+* *Asal Daerah:* Ponorogo
+* *Asal Sekolah:* SMKN 1 JENANGAN
+* *Fun Fact:* aku mau tidur
 ### 03 264311003 - Afan Dhani Prasetyo
 * <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Afan Dhani Prasetyo
