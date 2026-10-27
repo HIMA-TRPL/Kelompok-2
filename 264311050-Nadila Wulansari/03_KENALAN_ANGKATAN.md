@@ -672,7 +672,7 @@
 * **Fun Fact:** Human Male
 
 ### 61 264311061 - Aulia Kurniawati
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/A. Kurniawati.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Aulia Kurniawati
 * **NIM:** 264311061
 * **TTL:** Madiun, 15 Desember 2007
@@ -716,7 +716,7 @@
 * **Fun Fact:** Suka wanginya stela jeruk
 
 ### 65 264311065 - Cornelia Nasywa Puji Agustin
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/A. Kurniawati.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Cornelia Nasywa Puji Agustin
 * **NIM:** 264311065
 * **TTL:** Magetan, 28 April 2007
@@ -815,7 +815,7 @@
 * **Fun Fact:** Game garis keras
 
 ### 74 264311074 - Mar'atus Sofiana Azkiya
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/A. Kurniawati.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Mar'atus Sofiana Azkiya
 * **NIM:** 264311074
 * **TTL:** Ponorogo, 18 Januari 2008
