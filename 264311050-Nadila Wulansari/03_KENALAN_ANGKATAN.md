@@ -70,7 +70,7 @@
 * **Fun Fact:** TIDAK SUKA MAKANAN PEDAS
 
 ### 07 264311007 - Aurelysta Bunga Dhias Mawarni
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - 007.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Aurelysta Bunga Dhias Mawarni
 * **NIM:** 264311007
 * **TTL:** Mojokerto, 25 Juni 2007
@@ -92,7 +92,7 @@
 * **Fun Fact:** -
 
 ### 09 264311009 - Bramanta Setya Bagaskara
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - 009.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Bramanta Setya Bagaskara
 * **NIM:** 264311009
 * **TTL:** Malang, 24 November 2007
@@ -103,7 +103,7 @@
 * **Fun Fact:** SUKA MENDENGARKAN MUSIK, HOBI OTOMOTIF, TIDAK SUKA BUBUR
 
 ### 10 264311010 - Dava Al Mustoffa Dachlan
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - dava.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Dava Al Mustoffa Dachlan
 * **NIM:** 264311010
 * **TTL:** Magetan, 17 Maret 2007
@@ -114,7 +114,7 @@
 * **Fun Fact:** Cool
 
 ### 11 264311011 - Dhafin Hasya Zaki
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - 011.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Dhafin Hasya Zaki
 * **NIM:** 264311011
 * **TTL:** Madiun, 28 Juli 2007
@@ -125,7 +125,7 @@
 * **Fun Fact:** RACING ABIEZ
 
 ### 12 264311012 - Dimas Pramodya Bagaskara
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - 012.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Dimas Pramodya Bagaskara
 * **NIM:** 264311012
 * **TTL:** Ponorogo, 05 Mei 2008
@@ -147,7 +147,7 @@
 * **Fun Fact:** aku mah pemulaa
 
 ### 14 264311014 - Elvan Syahputra Idham
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - 014.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Elvan Syahputra Idham
 * **NIM:** 264311014
 * **TTL:** Madiun, 08 Maret 2008
@@ -158,7 +158,7 @@
 * **Fun Fact:** suka melukis
 
 ### 15 264311015 - Fakhriyatul Muzakkina
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - 015.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Fakhriyatul Muzakkina
 * **NIM:** 264311015
 * **TTL:** Probolinggo, 16 Juli 2008
@@ -169,7 +169,7 @@
 * **Fun Fact:** ga bisa tidur klo ga nyetel musik
 
 ### 16 264311016 - Fatikha Artemisia
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - 016.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Fatikha Artemisia
 * **NIM:** 264311016
 * **TTL:** Magetan, 16 Desember 2007
@@ -202,7 +202,7 @@
 * **Fun Fact:** suka lagu LANA DEL REY
 
 ### 19 264311019 - Khansa Qais Fernanda
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - 019.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Khansa Qais Fernanda
 * **NIM:** 264311019
 * **TTL:** Madiun, 21 Februari 2008
@@ -213,7 +213,7 @@
 * **Fun Fact:** suka main gitar
 
 ### 20 264311020 - Mahija Parama Urdha
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - 020.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Mahija Parama Urdha
 * **NIM:** 264311020
 * **TTL:** Ponorogo, 11 Januari 2008
@@ -246,7 +246,7 @@
 * **Fun Fact:** wallahualam😊🩵
 
 ### 23 264311023 - Nashwa Nadia Nurlatifa
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - 023.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Nashwa Nadia Nurlatifa
 * **NIM:** 264311023
 * **TTL:** Bojonegoro, 31 Maret 2008
@@ -290,7 +290,7 @@
 * **Fun Fact:** PENDIEM YANG SERING GERAK
 
 ### 27 264311027 - Reza Surya Kurniawan
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - 027.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Reza Surya Kurniawan
 * **NIM:** 264311027
 * **TTL:** Magetan, 28 Maret 2007
@@ -301,7 +301,7 @@
 * **Fun Fact:** Suka kopag
 
 ### 28 264311028 - Rhahma Dwi Sekarsari
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - 028.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Rhahma Dwi Sekarsari
 * **NIM:** 264311028
 * **TTL:** Nganjuk, 31 Juli 2008
@@ -312,7 +312,7 @@
 * **Fun Fact:** MINUM TEH GABISA TIDUR
 
 ### 29 264311029 - Rifqi Adyasta Mahardika
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - 029.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Rifqi Adyasta Mahardika
 * **NIM:** 264311029
 * **TTL:** Bojonegoro, 19 September 2008
