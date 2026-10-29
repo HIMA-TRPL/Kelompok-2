@@ -279,7 +279,7 @@
 * **Fun Fact:** suka pecut ai
 
 ### 26 264311026 - Rahma Fauzi Cahya Saputra
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/026.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Rahma Fauzi Cahya Saputra
 * **NIM:** 264311026
 * **TTL:** Ngawi, 20 Juli 2008
