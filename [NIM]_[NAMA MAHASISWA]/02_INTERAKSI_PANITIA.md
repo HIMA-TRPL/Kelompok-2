@@ -6,35 +6,49 @@
 
 ### [01] BPH - [NAMA_PANITIA_01]
 * <img src="assets/PANITIA/BPH/DIVISI - NAMA_PANITIA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [NAMA_PANITIA_01]
-* **Jabatan:** [JABATAN]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_01]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+* **Nama Panitia:** MUHAMMAD AKBAR FADILAH
+* **Jabatan:** KETUA UMUM
+* **TTL:** BANJARMASIN, 17 JULI 2006
+* **Nomer Handphone:** 82336825955
+* **Username GitHub:** @akbrvdv
+* **Asal Daerah:** NGAWI
 <!-- Line Comment TTD Panitia 01 wajib ditargetkan pada baris komentar ini -->
 
 ### [02] BPH - [NAMA_PANITIA_02]
 * ikuti langkah nomer 1 untuk menampilkan gambar [GANTI INI]
-* **Nama Panitia:** [NAMA_PANITIA_02]
-* **Jabatan:** [JABATAN]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_02]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+* **Nama Panitia:** MUHAMMAD ADAM AL-KIDRI
+* **Jabatan:** WAKIL KETUA UMUM
+* **TTL:** MAGETAN, 08 SEPTEMBER 2005
+* **Nomer Handphone:** 87756523263
+* **Username GitHub:** @Adamlki
+* **Asal Daerah:** MAGETAN
 <!-- Line Comment TTD Panitia 02 wajib ditargetkan pada baris komentar ini -->
 
 ### [03] BPH - [NAMA_PANITIA_03]
 * ikuti langkah nomer 1 untuk menampilkan gambar [GANTI INI]
-* **Nama Panitia:** [NAMA_PANITIA_03]
-* **Jabatan:** [JABATAN]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB_03]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+* **Nama Panitia:** Fathur Roshin Haddinanta
+* **Jabatan:** Sekretaris 1
+* **TTL:** Tulungagung, 21 September 2005
+* **Nomer Handphone:** 85732860583
+* **Username GitHub:** @fathursn21
+* **Asal Daerah:** TULUNGAGUNG
 <!-- Line Comment TTD Panitia 03 wajib ditargetkan pada baris komentar ini -->
 
 ---
+### [03] BPH - [NAMA_PANITIA_03]
+* ikuti langkah nomer 1 untuk menampilkan gambar [GANTI INI]
+* **Nama Panitia:** Fathur Roshin Haddinanta
+* **Jabatan:** Sekretaris 1
+* **TTL:** Tulungagung, 21 September 2005
+* **Nomer Handphone:** 85732860583
+* **Username GitHub:** @fathursn21
+* **Asal Daerah:** TULUNGAGUNG
+<!-- Line Comment TTD Panitia 03 wajib ditargetkan pada baris komentar ini -->
+
+---
+
+
+
 
 ## 🏛️ Divisi Dagri (Dalam Negeri)
 
