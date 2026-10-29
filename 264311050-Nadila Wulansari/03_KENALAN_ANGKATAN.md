@@ -26,7 +26,7 @@
 * *Asal Sekolah:* SMKN 1 JENANGAN
 * *Fun Fact:* aku mau tidur
 ### 03 264311003 - Afan Dhani Prasetyo
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/003.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Afan Dhani Prasetyo
 * **NIM:** 264311003
 * **TTL:** Magetan, 18 Febuari 2008
@@ -37,9 +37,9 @@
 * **Fun Fact:** Karina AESPA MBG (my bini gw)
 
 ### 04 264311004 - Afrin Rachmad Setio
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/004.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** Afrin Rachmad Setio
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/004.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px"> Rachmad Setio
 * **NIM:** 264311004
+* **Nama Lengkap:** Afrin
 * **TTL:** Magetan, 30 Agustus 2008
 * **Nomer Handphone:** 085735490376
 * **Nama Kelompok:** Svelte
@@ -136,7 +136,7 @@
 * **Fun Fact:** Cadel
 
 ### 13 264311013 - Edgar Rizki Putra Novariyanto
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/013.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Edgar Rizki Putra Novariyanto
 * **NIM:** 264311013
 * **TTL:** Madiun, 17 November 2007
@@ -191,7 +191,7 @@
 * **Fun Fact:** SUKA BUBUDUDU
 
 ### 18 264311018 - Julian Raka Nugraha
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/018.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Julian Raka Nugraha
 * **NIM:** 264311018
 * **TTL:** Ponorogo, 28 Juli 2008
@@ -224,7 +224,7 @@
 * **Fun Fact:** baik
 
 ### 21 264311021 - Muhammad Ridwan Nazim
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A_021.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Muhammad Ridwan Nazim
 * **NIM:** 264311021
 * **TTL:** Jakarta, 25 Mei 2007
@@ -760,7 +760,7 @@
 * **Fun Fact:** SUKA MIE AYAM
 
 ### 69 264311069 - Ghaza Zaidan Al-ghifari
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/069.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Ghaza Zaidan Al-ghifari
 * **NIM:** 264311069
 * **TTL:** Madiun, 31 Oktober 2007
@@ -793,7 +793,7 @@
 * **Fun Fact:** SUKA MAIN FUTSAL, GAME
 
 ### 72 264311072 - Izzata Wihanangku
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/072.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Izzata Wihanangku
 * **NIM:** 264311072
 * **TTL:** Ponorogo, 06 Agustus 2007
