@@ -369,7 +369,7 @@
 <!-- Line Comment TTD Panitia 34 wajib ditargetkan pada baris komentar ini -->
 
 ### [35] DKM - Jimli Dwi Assiddiqi
-* <img src="assets/PANITIA/DKM/DKM - Jimli Dwi Assiddiqi.png" alt="Jimli Dwi Assiddiqi" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/DKM_JIMLI DWI ASSIDDIQ.jpg" alt="JIMLI DWI ASSIDDIQ" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Jimli Dwi Assiddiqi
 * **Jabatan:** Perkap
 * **TTL:** Mojokerto, 29 Juli 2006
@@ -379,7 +379,7 @@
 <!-- Line Comment TTD Panitia 35 wajib ditargetkan pada baris komentar ini -->
 
 ### [36] DKM - Dheandra Khairunnisa P.
-* <img src="assets/PANITIA/DKM/DKM - Dheandra Khairunnisa P..png" alt="Dheandra Khairunnisa P." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/DKM_DHEANDRA KHAIRUNISA P_.jpg" alt="DHEANDRA KHAIRUNISA P_" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Dheandra Khairunnisa P.
 * **Jabatan:** Sie Kesehatan
 * **TTL:** Madiun, 27 September 2005
@@ -389,7 +389,7 @@
 <!-- Line Comment TTD Panitia 36 wajib ditargetkan pada baris komentar ini -->
 
 ### [37] DKM - Sekar Purwita Asri
-* <img src="assets/PANITIA/DKM/DKM - Sekar Purwita Asri.png" alt="Sekar Purwita Asri" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/DKM_SEKAR PURWITA SARI.jpg" alt="SEKAR PURWITA SARI" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Sekar Purwita Asri
 * **Jabatan:** Anggota DKM
 * **TTL:** Magetan, 15 Juli 2006
@@ -399,7 +399,7 @@
 <!-- Line Comment TTD Panitia 37 wajib ditargetkan pada baris komentar ini -->
 
 ### [38] DKM - Silfina Nur Fadilah
-* <img src="assets/PANITIA/DKM/DKM - Sillina Nur Fadilah.png" alt="Silfina Nur Fadilah" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/DKM_SILFINA NUR FADILAH.jpg" alt="SILFINA NUR FADILAH" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Silfina Nur Fadilah
 * **Jabatan:** Anggota DKM
 * **TTL:** Magetan, 02 Oktober 2006
