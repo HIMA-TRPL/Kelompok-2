@@ -241,7 +241,7 @@
 ## 🏛️ Divisi Sosma (Sosial Masyarakat)
 
 ### [23] Sosma - Anggi Wahyu Saputra
-* <img src="assets/PANITIA/Sosma/Sosma - Anggi Wahyu Saputra.png" alt="Anggi Wahyu Saputra" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/SOSMA_ANGGI WAHYU SAPUTRA.jpg" alt="ANGGI WAHYU SAPUTRA" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Anggi Wahyu Saputra
 * **Jabatan:** Koordinator Sosma
 * **TTL:** Tulungagung, 14 Juni 2005
@@ -261,7 +261,7 @@
 <!-- Line Comment TTD Panitia 24 wajib ditargetkan pada baris komentar ini -->
 
 ### [25] Sosma - Edwin Nur Cahyo
-* <img src="assets/PANITIA/Sosma/Sosma - Edwin Nur Cahyo.png" alt="Edwin Nur Cahyo" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/SOSMA_EDWIN NUR CAHYO.jpg" alt="EDWIN NUR CAHYO" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Edwin Nur Cahyo
 * **Jabatan:** Anggota Sosma
 * **TTL:** Dagangan, Madiun, 01 November 2006
@@ -281,7 +281,7 @@
 <!-- Line Comment TTD Panitia 26 wajib ditargetkan pada baris komentar ini -->
 
 ### [27] Sosma - Lutfilah Ahmad
-* <img src="assets/PANITIA/Sosma/Sosma - Lutfilah Ahmad.png" alt="Lutfilah Ahmad" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/SOSMA_LUTFILAH AHMAD.jpg" alt="LUTFILAH AHMAD" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Lutfilah Ahmad
 * **Jabatan:** Staff Muda
 * **TTL:** Magetan, 30 Januari 2007
