@@ -369,7 +369,7 @@
 <!-- Line Comment TTD Panitia 34 wajib ditargetkan pada baris komentar ini -->
 
 ### [35] DKM - Jimli Dwi Assiddiqi
-* <img src="assets/PANITIA/DKM/DKM_JIMLI DWI ASSIDDIQ.jpg" alt="JIMLI DWI ASSIDDIQ" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/DKM_JIMLI DWI ASSIDDIQI.jpg" alt="JIMLI DWI ASSIDDIQI" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Jimli Dwi Assiddiqi
 * **Jabatan:** Perkap
 * **TTL:** Mojokerto, 29 Juli 2006
