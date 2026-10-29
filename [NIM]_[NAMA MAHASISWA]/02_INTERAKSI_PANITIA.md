@@ -295,7 +295,7 @@
 ## 🏛️ Divisi PDD (Publikasi, Dokumentasi & Desain)
 
 ### [28] PDD - Ardhana Syah Hidayat
-* <img src="assets/PANITIA/PDD/PDD - Ardhana Syah Hidayat.png" alt="Ardhana Syah Hidayat" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/PDD_ARDHANA SYAH HIDAYAT.jpg" alt="ARDHANA SYAH HIDAYAT" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Ardhana Syah Hidayat
 * **Jabatan:** Koordinator PDD
 * **TTL:** Ponorogo, 04 Juli 2005
@@ -305,7 +305,7 @@
 <!-- Line Comment TTD Panitia 28 wajib ditargetkan pada baris komentar ini -->
 
 ### [29] PDD - Raditya Alfareza Purnama Putra
-* <img src="assets/PANITIA/PDD/PDD - Raditya Alfareeza Purnama.png" alt="Raditya Alfareza Purnama Putra" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/PDD_RADTYA ALFAREZA P.jpg" alt="RADTYA ALFAREZA PURNAMA" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Raditya Alfareza Purnama Putra
 * **Jabatan:** Anggota PDD
 * **TTL:** Madiun, 04 Maret 2006
