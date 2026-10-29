@@ -5,7 +5,7 @@
 ## 🏛️ Divisi BPH (Badan Pengurus Harian)
 
 ### [01] BPH - Muhammad Akbar Fadilah
-* <img src="assets/PANITIA/BPH/BPH - Muhammad Akbar Fadilah.png" alt="Muhammad Akbar Fadilah" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/MAS AKBAR.jpg" alt="Muhammad Akbar Fadilah" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Muhammad Akbar Fadilah
 * **Jabatan:** Ketua Umum
 * **TTL:** Banjarmasin, 17 Juli 2006
@@ -15,7 +15,7 @@
 <!-- Line Comment TTD Panitia 01 wajib ditargetkan pada baris komentar ini -->
 
 ### [02] BPH - Muhammad Adam Al-Kidri
-* <img src="assets/PANITIA/BPH/BPH - Muhammad Adam Al-Kidri.png" alt="Muhammad Adam Al-Kidri" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/MAS ADAM.jpg" alt="Muhammad Adam Al-Kidri" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Muhammad Adam Al-Kidri
 * **Jabatan:** Wakil Ketua Umum HIMA TRPL 2026
 * **TTL:** Magetan, 08 September 2005
@@ -25,7 +25,7 @@
 <!-- Line Comment TTD Panitia 02 wajib ditargetkan pada baris komentar ini -->
 
 ### [03] BPH - Fathur Roshin Haddinanta
-* <img src="assets/PANITIA/BPH/BPH - Fathur Roshin Haddinanta.png" alt="Fathur Roshin Haddinanta" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/MAS FATHUR ROSHIN.jpg" alt="Fathur Roshin Haddinanta" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Fathur Roshin Haddinanta
 * **Jabatan:** Sekretaris 1
 * **TTL:** Tulungagung, 21 September 2005
@@ -35,7 +35,7 @@
 <!-- Line Comment TTD Panitia 03 wajib ditargetkan pada baris komentar ini -->
 
 ### [04] BPH - Naila Zahra Yasmine
-* <img src="assets/PANITIA/BPH/BPH - Naila Zahra Yasmine.png" alt="Naila Zahra Yasmine" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/KAK NAILA.jpeg" alt="Naila Zahra Yasmine" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Naila Zahra Yasmine
 * **Jabatan:** Sekretaris 2
 * **TTL:** Madiun, 09 Oktober 2006
@@ -45,7 +45,7 @@
 <!-- Line Comment TTD Panitia 04 wajib ditargetkan pada baris komentar ini -->
 
 ### [05] BPH - Alivia Rizka Wardani
-* <img src="assets/PANITIA/BPH/BPH - Alivia Rizka Wardani.png" alt="Alivia Rizka Wardani" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/KAK ALIVIA RIZKA.jpg" alt="Alivia Rizka Wardani" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Alivia Rizka Wardani
 * **Jabatan:** Bendahara 1
 * **TTL:** Ngawi, 12 September 2007
@@ -55,7 +55,7 @@
 <!-- Line Comment TTD Panitia 05 wajib ditargetkan pada baris komentar ini -->
 
 ### [06] BPH - Dhea Novika
-* <img src="assets/PANITIA/BPH/BPH - Dhea Novika.png" alt="Dhea Novika" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/KAK DHEA NOVIKA.jpeg" alt="Dhea Novika" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Dhea Novika
 * **Jabatan:** Bendahara 2
 * **TTL:** Madiun, 13 November 2006
