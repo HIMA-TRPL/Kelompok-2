@@ -25,7 +25,7 @@
 <!-- Line Comment TTD Panitia 02 wajib ditargetkan pada baris komentar ini -->
 
 ### [03] BPH - [FATHUR_ROSHIN_HADDINANTA]
-* <img src="assets/PANITIA/BPH/BPH_FATHUR ROSHIN HADDINANTA.jpg" alt="FATHUR ROSHIN HADDINANTA" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/BPH_FATHUR ROSHIN HADDINATA.jpg" alt="FATHUR ROSHIN HADDINATA" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [FATHUR_ROSHIN_HADDINANTA]
 * **Jabatan:** [SEKRETARIS_1]
 * **TTL:** [TULUNGAGUNG,_21_SEPTEMBER_2005]
