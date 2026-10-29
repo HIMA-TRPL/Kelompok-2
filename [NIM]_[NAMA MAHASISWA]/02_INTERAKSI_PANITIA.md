@@ -305,7 +305,7 @@
 <!-- Line Comment TTD Panitia 28 wajib ditargetkan pada baris komentar ini -->
 
 ### [29] PDD - Raditya Alfareza Purnama Putra
-* <img src="assets/PANITIA/PDD/PDD_RADTYA ALFAREZA P.jpg" alt="RADTYA ALFAREZA PURNAMA" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/PDD_RADITYA ALFAREZA PURNAMA PUTRA.jpg" alt="RADITYA ALFAREZA PURNAMA PUTRA" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Raditya Alfareza Purnama Putra
 * **Jabatan:** Anggota PDD
 * **TTL:** Madiun, 04 Maret 2006
