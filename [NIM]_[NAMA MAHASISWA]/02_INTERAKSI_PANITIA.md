@@ -25,7 +25,7 @@
 <!-- Line Comment TTD Panitia 02 wajib ditargetkan pada baris komentar ini -->
 
 ### [03] BPH - [FATHUR_ROSHIN_HADDINANTA]
-* <img src="assets/PANITIA/BPH/BPH - Fathur Roshin Haddinanta.png" alt="Fathur Roshin Haddinanta" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/BPH_FATHUR ROSHIN HADDINANTA.jpg" alt="FATHUR ROSHIN HADDINANTA" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [FATHUR_ROSHIN_HADDINANTA]
 * **Jabatan:** [SEKRETARIS_1]
 * **TTL:** [TULUNGAGUNG,_21_SEPTEMBER_2005]
@@ -35,7 +35,7 @@
 <!-- Line Comment TTD Panitia 03 wajib ditargetkan pada baris komentar ini -->
 
 ### [04] BPH - [NAILA_ZAHRA_YASMINE]
-* <img src="assets/PANITIA/BPH/BPH - Naila Zahra Yasmine.png" alt="Naila Zahra Yasmine" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/BPH_NAILA ZAHRA YASMINE.jpg" alt="NAILA ZAHRA YASMINE" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [NAILA_ZAHRA_YASMINE]
 * **Jabatan:** [SEKRETARIS_2]
 * **TTL:** [MADIUN,_09_OKTOBER_2006]
@@ -45,7 +45,7 @@
 <!-- Line Comment TTD Panitia 04 wajib ditargetkan pada baris komentar ini -->
 
 ### [05] BPH - [ALIVIA_RIZKA_WARDANI]
-* <img src="assets/PANITIA/BPH/BPH - Alivia Rizka Wardani.png" alt="Alivia Rizka Wardani" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/BPH_ALIVIA RIZKA WARDANI.jpg" alt="ALIVIA RIZKA WARDANI" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [ALIVIA_RIZKA_WARDANI]
 * **Jabatan:** [BENDAHARA_1]
 * **TTL:** [NGAWI,_12_SEPTEMBER_2007]
@@ -55,7 +55,7 @@
 <!-- Line Comment TTD Panitia 05 wajib ditargetkan pada baris komentar ini -->
 
 ### [06] BPH - [DHEA_NOVIKA]
-* <img src="assets/PANITIA/BPH/BPH - Dhea Novika.png" alt="Dhea Novika" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/BPH_DHEA NOVIKA.jpg" alt="DHEA NOVIKA" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [DHEA_NOVIKA]
 * **Jabatan:** [BENDAHARA_2]
 * **TTL:** [MADIUN,_13_NOVEMBER_2006]
