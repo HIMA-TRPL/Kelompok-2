@@ -69,7 +69,7 @@
 ## 🏛️ Divisi Dagri (Dalam Negeri)
 
 ### [07] Dagri - [ALVIAN_DWIKY_PUTRA_SANTOSO]
-* <img src="assets/PANITIA/Dagri/DAGRI_ALVIAN DWIKY PUTRA S_.JPg" alt="ALVIAN DWIKY PUTRA_.S" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/DAGRI_ALVIAN DWIKY PUTRA S_.jpg" alt="ALVIAN DWIKY PUTRA_.S" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [ALVIAN_DWIKY_PUTRA_SANTOSO]
 * **Jabatan:** [KOORDINATOR_DAGRI]
 * **TTL:** [PONOROGO,_02_DESEMBER_2005]
