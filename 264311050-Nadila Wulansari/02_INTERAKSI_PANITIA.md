@@ -5,7 +5,7 @@
 ## 🏛️ Divisi BPH (Badan Pengurus Harian)
 
 ### [01] BPH - Muhammad Akbar Fadilah
-* <img src="assets/PANITIA/BPH/akbar.jpeg" alt="akbar.jpeg" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/Akbar.jpeg" alt="akbar.jpeg" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Muhammad Akbar Fadilah
 * **Jabatan:** Ketua Umum
 * **TTL:** Banjarmasin, 17 Juli 2006
@@ -15,7 +15,7 @@
 <!-- Line Comment TTD Panitia 01 wajib ditargetkan pada baris komentar ini -->
 
 ### [02] BPH - Muhammad Adam Al-Kidri
-* <img src="assets/PANITIA/BPH/adam.jpeg" alt="adam" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/Adam.jpeg" alt="adam" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Muhammad Adam Al-Kidri
 * **Jabatan:** Wakil Ketua Umum HIMA TRPL 2026
 * **TTL:** Magetan, 08 September 2005
