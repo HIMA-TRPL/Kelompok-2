@@ -937,7 +937,7 @@
 * **Fun Fact:** SUKA MENDENGRKAN MUSIK
 
 ### 85 264311086 - Vicky Aditya Surya Samudra
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/26431186_vicky.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/264311086_vicky.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Vicky Aditya Surya Samudra
 * **NIM:** 264311086
 * **TTL:** Madiun, 1 Juli 2007
