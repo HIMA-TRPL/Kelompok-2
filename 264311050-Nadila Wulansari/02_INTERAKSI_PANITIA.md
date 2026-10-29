@@ -35,7 +35,7 @@
 <!-- Line Comment TTD Panitia 03 wajib ditargetkan pada baris komentar ini -->
 
 ### [04] BPH - Naila Zahra Yasmine
-* <img src="assets/PANITIA/BPH/BPH - Naila Zahra Yasmine.png" alt="Naila Zahra Yasmine" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/naila.jpeg" alt="naila" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Naila Zahra Yasmine
 * **Jabatan:** Sekretaris 2
 * **TTL:** Madiun, 09 Oktober 2006
@@ -55,7 +55,7 @@
 <!-- Line Comment TTD Panitia 05 wajib ditargetkan pada baris komentar ini -->
 
 ### [06] BPH - Dhea Novika
-* <img src="assets/PANITIA/BPH/BPH - Dhea Novika.png" alt="Dhea Novika" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/dhea novika.jpeg" alt="dhea novika" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Dhea Novika
 * **Jabatan:** Bendahara 2
 * **TTL:** Madiun, 13 November 2006
