@@ -313,7 +313,7 @@
 * **Fun Fact:** MINUM TEH GABISA TIDUR
 
 ### 29 264311029 - Rifqi Adyasta Mahardika
-* <img src="assets/MAHASISWA_BARU/Kelas_1A/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/rifqi.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Rifqi Adyasta Mahardika
 * **NIM:** 264311029
 * **TTL:** Bojonegoro, 19 September 2008
@@ -750,7 +750,7 @@
 * **Fun Fact:** SUKA MIE AYAM
 
 ### 69 264311069 - Ghaza Zaidan Al-ghifari
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/ghaza.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Ghaza Zaidan Al-ghifari
 * **NIM:** 264311069
 * **TTL:** Madiun, 31 Oktober 2007
@@ -783,7 +783,7 @@
 * **Fun Fact:** SUKA MAIN FUTSAL, GAME
 
 ### 72 264311072 - Izzata Wihanangku
-* <img src="assets/MAHASISWA_BARU/Kelas_1C/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1C/izzata.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Izzata Wihanangku
 * **NIM:** 264311072
 * **TTL:** Ponorogo, 06 Agustus 2007
