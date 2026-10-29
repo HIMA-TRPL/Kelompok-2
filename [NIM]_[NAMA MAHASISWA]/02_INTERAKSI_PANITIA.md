@@ -69,7 +69,7 @@
 ## 🏛️ Divisi Dagri (Dalam Negeri)
 
 ### [07] Dagri - [ALVIAN_DWIKY_PUTRA_SANTOSO]
-* <img src="assets/PANITIA/Dagri/DAGRI - Alvian Dwiky Putra S.png" alt="Alvian Dwiky Putra Santoso" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/DAGRI_ALVIAN DWIKY PUTRA S_.JPg" alt="ALVIAN DWIKY PUTRA_.S" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [ALVIAN_DWIKY_PUTRA_SANTOSO]
 * **Jabatan:** [KOORDINATOR_DAGRI]
 * **TTL:** [PONOROGO,_02_DESEMBER_2005]
@@ -79,7 +79,7 @@
 <!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
 
 ### [08] Dagri - [DZAKWAN_DARIS_FAKHRUDDIN]
-* <img src="assets/PANITIA/Dagri/Dagri - Dzakwan Daris Fakhruddin.png" alt="Dzakwan Daris Fakhruddin" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/Dagri_DZAKWAN DARIS FAKHRUDDIN.jpg" alt="DZAKWAN DARIS FAKHRUDDIN" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [DZAKWAN_DARIS_FAKHRUDDIN]
 * **Jabatan:** [ANGGOTA_DAGRI]
 * **TTL:** [MADIUN,_13_APRIL_2006]
@@ -89,7 +89,7 @@
 <!-- Line Comment TTD Panitia 08 wajib ditargetkan pada baris komentar ini -->
 
 ### [09] Dagri - [FIRDAUS_ILHAM_F.]
-* <img src="assets/PANITIA/Dagri/Dagri - Firdaus Ilham F..png" alt="Firdaus Ilham F." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/Dagri_FIRDAUS ILHAM F_.jpg" alt="FIRDAUS ILHAM F_" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [FIRDAUS_ILHAM_F.]
 * **Jabatan:** [ANGGOTA]
 * **TTL:** [MADIUN,_01_JANUARI_2007]
@@ -99,7 +99,7 @@
 <!-- Line Comment TTD Panitia 09 wajib ditargetkan pada baris komentar ini -->
 
 ### [10] Dagri - [BANGKIT_CAHYA_LINUWIH]
-* <img src="assets/PANITIA/Dagri/Dagri - Bangkit Cahya Linuwih.png" alt="Bangkit Cahya Linuwih" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/Dagri_BANGKIT CAHYA LINUWIH.jpg" alt="BANGKIT CAHYA LINUWIH" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [BANGKIT_CAHYA_LINUWIH]
 * **Jabatan:** [STAFF_MUDA_DAGRI]
 * **TTL:** [PACITAN,_02_APRIL_2006]
@@ -109,7 +109,7 @@
 <!-- Line Comment TTD Panitia 10 wajib ditargetkan pada baris komentar ini -->
 
 ### [11] Dagri - [NADIA_TIFARA_SIDIQ]
-* <img src="assets/PANITIA/Dagri/Dagri - Nadia Tifara S..png" alt="Nadia Tifara Sidiq" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/Dagri_NADIA TIFARA SIDIQ.jpg" alt="NADIA TIFARA SIDIQ" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [NADIA_TIFARA_SIDIQ]
 * **Jabatan:** [SIE_ACARA]
 * **TTL:** [MADIUN,_27_DESEMBER_2005]
