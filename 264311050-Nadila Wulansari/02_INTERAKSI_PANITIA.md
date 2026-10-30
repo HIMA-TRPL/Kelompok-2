@@ -5,7 +5,7 @@
 ## 🏛️ Divisi BPH (Badan Pengurus Harian)
 
 ### [01] BPH - Muhammad Akbar Fadilah
-* <img src="assets/PANITIA/BPH/Akbar.jpg" alt="akbar.jpg" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/Akbar.jpeg" alt="Akbar" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Muhammad Akbar Fadilah
 * **Jabatan:** Ketua Umum
 * **TTL:** Banjarmasin, 17 Juli 2006
@@ -15,7 +15,7 @@
 <!-- Line Comment TTD Panitia 01 wajib ditargetkan pada baris komentar ini -->
 
 ### [02] BPH - Muhammad Adam Al-Kidri
-* <img src="assets/PANITIA/BPH/Adam.jpg" alt="adam.jpg" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/Adam.jpeg" alt="Adam" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Muhammad Adam Al-Kidri
 * **Jabatan:** Wakil Ketua Umum HIMA TRPL 2026
 * **TTL:** Magetan, 08 September 2005
@@ -55,7 +55,7 @@
 <!-- Line Comment TTD Panitia 05 wajib ditargetkan pada baris komentar ini -->
 
 ### [06] BPH - Dhea Novika
-* <img src="assets/PANITIA/BPH/dhea novika.jpeg" alt="dhea novika" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/dhea novika.jpeg" alt="dhea" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Dhea Novika
 * **Jabatan:** Bendahara 2
 * **TTL:** Madiun, 13 November 2006
@@ -69,7 +69,7 @@
 ## 🏛️ Divisi Dagri (Dalam Negeri)
 
 ### [07] Dagri - Alvian Dwiky Putra Santoso
-* <img src="assets/PANITIA/Dagri/Dagri - Alvian Dwiky Putra S.png" alt="Alvian Dwiky Putra Santoso" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/alvian.jpeg" alt="alvian" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Alvian Dwiky Putra Santoso
 * **Jabatan:** Koordinator Dagri
 * **TTL:** Ponorogo, 02 Desember 2005
@@ -79,7 +79,7 @@
 <!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
 
 ### [08] Dagri - Dzakwan Daris Fakhruddin
-* <img src="assets/PANITIA/Dagri/Dagri - Dzakwan Daris Fakhruddin.png" alt="Dzakwan Daris Fakhruddin" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/dzakwan.jpeg" alt="dzakwan" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Dzakwan Daris Fakhruddin
 * **Jabatan:** Anggota Dagri
 * **TTL:** Madiun, 13 April 2006
@@ -89,7 +89,7 @@
 <!-- Line Comment TTD Panitia 08 wajib ditargetkan pada baris komentar ini -->
 
 ### [09] Dagri - Firdaus Ilham F.
-* <img src="assets/PANITIA/Dagri/Dagri - Firdaus Ilham F..png" alt="Firdaus Ilham F." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/firdaus.jpg" alt="firdaus." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Firdaus Ilham F.
 * **Jabatan:** Anggota
 * **TTL:** Madiun, 01 Januari 2007
@@ -99,7 +99,7 @@
 <!-- Line Comment TTD Panitia 09 wajib ditargetkan pada baris komentar ini -->
 
 ### [10] Dagri - Bangkit Cahya Linuwih
-* <img src="assets/PANITIA/Dagri/Dagri - Bangkit Cahya Linuwih.png" alt="Bangkit Cahya Linuwih" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/bangkit.jpeg" alt="bangkit" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Bangkit Cahya Linuwih
 * **Jabatan:** Staff Muda Dagri
 * **TTL:** Pacitan, 02 April 2006
@@ -109,7 +109,7 @@
 <!-- Line Comment TTD Panitia 10 wajib ditargetkan pada baris komentar ini -->
 
 ### [11] Dagri - Nadia Tifara Sidiq
-* <img src="assets/PANITIA/Dagri/Dagri - Nadia Tifara S..png" alt="Nadia Tifara Sidiq" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/nadia.jpg" alt="nadia" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Nadia Tifara Sidiq
 * **Jabatan:** Sie Acara
 * **TTL:** Madiun, 27 Desember 2005
@@ -177,7 +177,7 @@
 ## 🏛️ Divisi PSDM (Pengembangan Sumber Daya Mahasiswa)
 
 ### [17] PSDM - Riyan Zakaria Zulkarnain
-* <img src="assets/PANITIA/PSDM/PSDM - Riyan Zakaria Zulkarnain.png" alt="Riyan Zakaria Zulkarnain" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/riyan.jpeg" alt="riyan" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Riyan Zakaria Zulkarnain
 * **Jabatan:** Koordinator PSDM
 * **TTL:** Ponorogo, 07 September 2005
@@ -187,7 +187,7 @@
 <!-- Line Comment TTD Panitia 17 wajib ditargetkan pada baris komentar ini -->
 
 ### [18] PSDM - Mohammad Dani Taufiqurrohman
-* <img src="assets/PANITIA/PSDM/PSDM - Muhammad Dani T..png" alt="Mohammad Dani Taufiqurrohman" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/dani.jpeg" alt="dani" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Mohammad Dani Taufiqurrohman
 * **Jabatan:** Anggota PSDM
 * **TTL:** Denpasar, 21 Maret 2006
@@ -199,15 +199,15 @@
 ### [19] PSDM - Rindy Cantika Agustina P.
 * <img src="assets/PANITIA/PSDM/PSDM - Rindy Cantika Agustina P..png" alt="Rindy Cantika Agustina P." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Rindy Cantika Agustina P.
-* **Jabatan:** -
-* **TTL:** -
-* **Nomer Handphone:** -
-* **Username GitHub:** -
-* **Asal Daerah:** -
+* **Jabatan:** Anggota PSDM
+* **TTL:** Madiun, 31 Agustus 2006
+* **Nomer Handphone:** 081553111275
+* **Username GitHub:** @111ndy
+* **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 19 wajib ditargetkan pada baris komentar ini -->
 
 ### [20] PSDM - Abdul Aziz Mushthofa
-* <img src="assets/PANITIA/PSDM/PSDM - Abdul Aziz Mushthofa.png" alt="Abdul Aziz Mushthofa" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/aziz.jpeg" alt= "aziz" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Abdul Aziz Mushthofa
 * **Jabatan:** Staff Muda PSDM / Ketupel
 * **TTL:** Tulungagung, 13 April 2006
@@ -217,7 +217,7 @@
 <!-- Line Comment TTD Panitia 20 wajib ditargetkan pada baris komentar ini -->
 
 ### [21] PSDM - Tiara Maya Lestari
-* <img src="assets/PANITIA/PSDM/PSDM - Tiara Maya Lestari.png" alt="Tiara Maya Lestari" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/tiara.jpeg" alt="tiara" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Tiara Maya Lestari
 * **Jabatan:** Anggota PSDM
 * **TTL:** Nganjuk, 11 Maret 2006
@@ -229,11 +229,11 @@
 ### [22] PSDM - Azza Auliyaul F.
 * <img src="assets/PANITIA/PSDM/PSDM - Azza Auliyaul F..png" alt="Azza Auliyaul F." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Azza Auliyaul F.
-* **Jabatan:** -
-* **TTL:** -
-* **Nomer Handphone:** -
-* **Username GitHub:** -
-* **Asal Daerah:** -
+* **Jabatan:** Anggota PSDM
+* **TTL:** Madiun, 19 November 2005
+* **Nomer Handphone:** 089523358721
+* **Username GitHub:** @azzaauliyaul
+* **Asal Daerah:** Rejosari, Sawahan, Madiun
 <!-- Line Comment TTD Panitia 22 wajib ditargetkan pada baris komentar ini -->
 
 ---
@@ -241,7 +241,7 @@
 ## 🏛️ Divisi Sosma (Sosial Masyarakat)
 
 ### [23] Sosma - Anggi Wahyu Saputra
-* <img src="assets/PANITIA/Sosma/Sosma - Anggi Wahyu Saputra.png" alt="Anggi Wahyu Saputra" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/anggi.jpg" alt="anggi" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Anggi Wahyu Saputra
 * **Jabatan:** Koordinator Sosma
 * **TTL:** Tulungagung, 14 Juni 2005
@@ -253,15 +253,15 @@
 ### [24] Sosma - Muhammad Rofiqul Anam
 * <img src="assets/PANITIA/Sosma/Sosma - Muhammad Rofiqul Anam.png" alt="Muhammad Rofiqul Anam" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Muhammad Rofiqul Anam
-* **Jabatan:** -
-* **TTL:** -
-* **Nomer Handphone:** -
-* **Username GitHub:** -
-* **Asal Daerah:** -
+* **Jabatan:** Anggota Sosma
+* **TTL:** Magetan, 05 Maret 2006
+* **Nomer Handphone:** 085850296348
+* **Username GitHub:** @RofiqAnam
+* **Asal Daerah:** Magetan
 <!-- Line Comment TTD Panitia 24 wajib ditargetkan pada baris komentar ini -->
 
 ### [25] Sosma - Edwin Nur Cahyo
-* <img src="assets/PANITIA/Sosma/Sosma - Edwin Nur Cahyo.png" alt="Edwin Nur Cahyo" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/edwin.jpg" alt="edwin" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Edwin Nur Cahyo
 * **Jabatan:** Anggota Sosma
 * **TTL:** Dagangan, Madiun, 01 November 2006
@@ -271,8 +271,8 @@
 <!-- Line Comment TTD Panitia 25 wajib ditargetkan pada baris komentar ini -->
 
 ### [26] Sosma - Muhsyam Fahriel S.
-* <img src="assets/PANITIA/Sosma/Sosma - Muhsyam Fahriel S..png" alt="Muhsyam Fahriel S." style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** Muhsyam Fahriel S.
+* <img src="assets/PANITIA/Sosma/muhsyam.jpg" alt="muhsyam" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** Muhsyam Fahriel S
 * **Jabatan:** Anggota Sosma
 * **TTL:** Ngawi, 25 September 2005
 * **Nomer Handphone:** 085736564592
@@ -281,7 +281,7 @@
 <!-- Line Comment TTD Panitia 26 wajib ditargetkan pada baris komentar ini -->
 
 ### [27] Sosma - Lutfilah Ahmad
-* <img src="assets/PANITIA/Sosma/Sosma - Lutfilah Ahmad.png" alt="Lutfilah Ahmad" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/lutpi.jpg" alt="lutpi" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Lutfilah Ahmad
 * **Jabatan:** Staff Muda
 * **TTL:** Magetan, 30 Januari 2007
@@ -295,7 +295,7 @@
 ## 🏛️ Divisi PDD (Publikasi, Dokumentasi & Desain)
 
 ### [28] PDD - Ardhana Syah Hidayat
-* <img src="assets/PANITIA/PDD/PDD - Ardhana Syah Hidayat.png" alt="Ardhana Syah Hidayat" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/ardhana.jpg" alt="ardhana" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Ardhana Syah Hidayat
 * **Jabatan:** Koordinator PDD
 * **TTL:** Ponorogo, 04 Juli 2005
@@ -305,7 +305,7 @@
 <!-- Line Comment TTD Panitia 28 wajib ditargetkan pada baris komentar ini -->
 
 ### [29] PDD - Raditya Alfareza Purnama Putra
-* <img src="assets/PANITIA/PDD/PDD - Raditya Alfareeza Purnama.png" alt="Raditya Alfareza Purnama Putra" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/radit.jpg" alt="radit" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Raditya Alfareza Purnama Putra
 * **Jabatan:** Anggota PDD
 * **TTL:** Madiun, 04 Maret 2006
@@ -325,7 +325,7 @@
 <!-- Line Comment TTD Panitia 30 wajib ditargetkan pada baris komentar ini -->
 
 ### [31] PDD - Achmad Alvin Al Falah
-* <img src="assets/PANITIA/PDD/PDD - Achmad Alvin Al Falah.png" alt="Achmad Alvin Al Falah" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/achmad.jpeg" alt="achmad" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Achmad Alvin Al Falah
 * **Jabatan:** PJ
 * **TTL:** Ponorogo, 18 Januari 2006
@@ -335,7 +335,7 @@
 <!-- Line Comment TTD Panitia 31 wajib ditargetkan pada baris komentar ini -->
 
 ### [32] PDD - Daffa Hafist Atha Kuncoro
-* <img src="assets/PANITIA/PDD/PDD - Daffa Hafist Atha Kuncoro.png" alt="Daffa Hafist Atha Kuncoro" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/daffa.jpeg" alt="daffa" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Daffa Hafist Atha Kuncoro
 * **Jabatan:** Staff Muda
 * **TTL:** Surabaya, 16 Januari 2007
@@ -345,13 +345,13 @@
 <!-- Line Comment TTD Panitia 32 wajib ditargetkan pada baris komentar ini -->
 
 ### [33] PDD - Dinda Rahmawati
-* <img src="assets/PANITIA/PDD/PDD - Dinda Rahmawati.png" alt="Dinda Rahmawati" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/dinda.jpeg" alt="dinda" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Dinda Rahmawati
 * **Jabatan:** Staff Muda
 * **TTL:** Madiun, 09 September 2006
 * **Nomer Handphone:** 085143442263
 * **Username GitHub:** @dindarahmawatii
-* **Asal Daerah:** -
+* **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 33 wajib ditargetkan pada baris komentar ini -->
 
 ---
@@ -361,15 +361,15 @@
 ### [34] DKM - Andrian Maulana
 * <img src="assets/PANITIA/DKM/DKM - Andrian Maulana.png" alt="Andrian Maulana" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Andrian Maulana
-* **Jabatan:** -
-* **TTL:** -
-* **Nomer Handphone:** -
-* **Username GitHub:** -
-* **Asal Daerah:** -
+* **Jabatan:** Koordinator DKM
+* **TTL:** Ponorogo, 19 September 2005
+* **Nomer Handphone:** 089524151260
+* **Username GitHub:** @driannmlnaa
+* **Asal Daerah:** Ponorogo
 <!-- Line Comment TTD Panitia 34 wajib ditargetkan pada baris komentar ini -->
 
 ### [35] DKM - Jimli Dwi Assiddiqi
-* <img src="assets/PANITIA/DKM/DKM - Jimli Dwi Assiddiqi.png" alt="Jimli Dwi Assiddiqi" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/DKM_JIMLI DWI ASSIDDIQI.jpg" alt="JIMLI DWI ASSIDDIQI" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Jimli Dwi Assiddiqi
 * **Jabatan:** Perkap
 * **TTL:** Mojokerto, 29 Juli 2006
@@ -379,7 +379,7 @@
 <!-- Line Comment TTD Panitia 35 wajib ditargetkan pada baris komentar ini -->
 
 ### [36] DKM - Dheandra Khairunnisa P.
-* <img src="assets/PANITIA/DKM/DKM - Dheandra Khairunnisa P..png" alt="Dheandra Khairunnisa P." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/DKM_DHEANDRA KHAIRUNNISA P.jpg alt="DHEANDRA KHAIRUNNISA P." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Dheandra Khairunnisa P.
 * **Jabatan:** Sie Kesehatan
 * **TTL:** Madiun, 27 September 2005
@@ -389,7 +389,7 @@
 <!-- Line Comment TTD Panitia 36 wajib ditargetkan pada baris komentar ini -->
 
 ### [37] DKM - Sekar Purwita Asri
-* <img src="assets/PANITIA/DKM/DKM - Sekar Purwita Asri.png" alt="Sekar Purwita Asri" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/DKM_SEKAR PURWITA SARI.jpg" alt="SEKAR PUURWITA SARI.jpg" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Sekar Purwita Asri
 * **Jabatan:** Anggota DKM
 * **TTL:** Magetan, 15 Juli 2006
@@ -399,7 +399,7 @@
 <!-- Line Comment TTD Panitia 37 wajib ditargetkan pada baris komentar ini -->
 
 ### [38] DKM - Silfina Nur Fadilah
-* <img src="assets/PANITIA/DKM/DKM - Sillina Nur Fadilah.png" alt="Silfina Nur Fadilah" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/DKM_NUR FADILAH-copy.jpg" alt="SILFIANA NUR FADILAH" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Silfina Nur Fadilah
 * **Jabatan:** Anggota DKM
 * **TTL:** Magetan, 02 Oktober 2006
@@ -467,7 +467,7 @@
 * **Nama Panitia:** Ervindy Anjuni Nurmasari
 * **Jabatan:** Volunteer (Konsumsi)
 * **TTL:** Madiun, 21 Juni 2006
-* **Nomer Handphone:** -
+* **Nomer Handphone:** 085733213487
 * **Username GitHub:** @erov1n
 * **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
