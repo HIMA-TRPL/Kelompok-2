@@ -136,7 +136,7 @@
 * **Fun Fact:** Cadel
 
 ### 13 264311013 - Edgar Rizki Putra Novariyanto
-* <img src="assets/MAHASISWA_BARU/013.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1A/013.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** Edgar Rizki Putra Novariyanto
 * **NIM:** 264311013
 * **TTL:** Madiun, 17 November 2007
