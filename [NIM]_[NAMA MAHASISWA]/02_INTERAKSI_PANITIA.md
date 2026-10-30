@@ -200,7 +200,7 @@
 * <img src="assets/PANITIA/PSDM/PSDM - RINDY CANTIKA AGUSTINA P..jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [RINDY_CANTIKA_AGUSTINA_PUTRI]
 * **Jabatan:** [STAFF PSDM]
-* **TTL:** [MADIUN,_31_AGUSTUS_2006]
+* **TTL:** [MADIUN, 31_AGUSTUS_2006]
 * **Nomer Handphone:** [081553111275]
 * **Username GitHub:** @[111ndy]
 * **Asal Daerah:** [MADIUN]
@@ -230,7 +230,7 @@
 * <img src="assets/PANITIA/PSDM/PSDM - AZZA AULIYAUL F.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [AZZA_AULIYAUL_F]
 * **Jabatan:** [STAFF PSDM]
-* **TTL:** [MADIUN,_19_NOVEMBER_2005]
+* **TTL:** [MADIUN, 19_NOVEMBER_2005]
 * **Nomer Handphone:** [089523358721]
 * **Username GitHub:** @[azzaauliyaul]
 * **Asal Daerah:** [MADIUN]
@@ -254,7 +254,7 @@
 * <img src="assets/PANITIA/Sosma/SOSMA - MUHAMMAD ROFIQUL ANAM.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [MUHAMMAD_ROFIQUL_ANAM]
 * **Jabatan:** [ANGGOTA]
-* **TTL:** [MAGETAN,_05_MARET_2006]
+* **TTL:** [MAGETAN, 05_MARET_2006]
 * **Nomer Handphone:** [085850296348]
 * **Username GitHub:** @[RofiqAnam]
 * **Asal Daerah:** [MAGETAN]
@@ -318,7 +318,7 @@
 * <img src="assets/PANITIA/PDD/PDD - RAIHAN FIRDAUS ALFARITSI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [RAIHAN_FIRDAUS_ALFARITSI]
 * **Jabatan:** [STAFF]
-* **TTL:** [NGAWI,_24_SEPTEMBER_2005]
+* **TTL:** [NGAWI, 24_SEPTEMBER_2005]
 * **Nomer Handphone:** [0895405971849]
 * **Username GitHub:** @[hannnzu]
 * **Asal Daerah:** [NGAWI]
@@ -362,7 +362,7 @@
 * <img src="assets/PANITIA/DKM/DKM - ANDRIAN MAULANA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [ANDRIAN_MAULANA]
 * **Jabatan:** [KOORDINATOR]
-* **TTL:** [PONOROGO,_19_SEPTEMBER_2005]
+* **TTL:** [PONOROGO, 19_SEPTEMBER_2005]
 * **Nomer Handphone:** [089524151260]
 * **Username GitHub:** @[driannminaa]
 * **Asal Daerah:** [PONOROGO]
@@ -486,7 +486,7 @@
 * <img src="assets/PANITIA/Volunteer/VOLUNTEER - GALANG SURYA PRASETYO.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [GALANG_SURYA_PRASETYO]
 * **Jabatan:** [VOLUNTEER]
-* **TTL:** [TENGGARONG,_19_FEBRUARI_2007]
+* **TTL:** [TENGGARONG, 19_FEBRUARI_2007]
 * **Nomer Handphone:** [081247074623]
 * **Username GitHub:** @[PrassHere]
 * **Asal Daerah:** [KALIMANTAN TIMUR]
