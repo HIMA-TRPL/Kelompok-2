@@ -423,7 +423,7 @@
 <!-- Line Comment TTD Panitia 39 wajib ditargetkan pada baris komentar ini -->
 
 ### [40] Volunteer - Indah Ayu Astuti
-* <img src="assets/PANITIA/Volunteer/VOLUNTEER_INDAH AYU ASTUTI.jpg" alt="INDAH AYU ASTUTI" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/volunteer/VOLUNTEER_INDAH AYU ASTUTI.jpg" alt="INDAH AYU ASTUTI" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Indah Ayu Astuti
 * **Jabatan:** Volunteer
 * **TTL:** Ponorogo, 27 Desember 2006
@@ -433,7 +433,7 @@
 <!-- Line Comment TTD Panitia 40 wajib ditargetkan pada baris komentar ini -->
 
 ### [41] Volunteer - Kunni Sofa Rahmayani
-* <img src="assets/PANITIA/Volunteer/VOLUNTEER_KUNNI SOFA RAHMAYANI.jpg" alt="KUNNI SOFA RAHMAYANI" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/volunteer/VOLUNTEER_KUNNI SOFA RAHMAYANI.jpg" alt="KUNNI SOFA RAHMAYANI" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Kunni Sofa Rahmayani
 * **Jabatan:** Volunteer
 * **TTL:** Madiun, 04 Juli 2006
@@ -453,7 +453,7 @@
 <!-- Line Comment TTD Panitia 42 wajib ditargetkan pada baris komentar ini -->
 
 ### [43] Volunteer - Nabil Sunu Widya Dhana
-* <img src="assets/PANITIA/Volunteer/VOLUNTEER_NABIL SUNU WIDYA DHANA.jpg" alt="NABIL SUNU WIDYA DHANA" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/volunteer/VOLUNTEER_NABIL SUNU WIDYA DHANA.jpg" alt="NABIL SUNU WIDYA DHANA" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Nabil Sunu Widya Dhana
 * **Jabatan:** Volunteer
 * **TTL:** Bekasi, 15 Maret 2006
