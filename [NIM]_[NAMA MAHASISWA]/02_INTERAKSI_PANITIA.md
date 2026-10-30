@@ -197,7 +197,7 @@
 <!-- Line Comment TTD Panitia 18 wajib ditargetkan pada baris komentar ini -->
 
 ### [19] PSDM - Rindy Cantika Agustina P.
-* <img src="assets/PANITIA/PSDM/PSDM - Rindy Cantika Agustina P..png" alt="Rindy Cantika Agustina P." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM_RINDY CANTIKA AGUSTINA P..jpg" alt="Rindy Cantika Agustina P." style="object-fit:cover" width="300px" height="300px">
 * *Nama Panitia:* Rindy Cantika Agustina P.
 * *Jabatan:* Anggota PSDM
 * *TTL:* Madiun, 31 Agustus 2006
@@ -317,11 +317,11 @@
 ### [30] PDD - Raihan Firdaus Alfaritsi
 * <img src="assets/PANITIA/PDD/PDD - Raihan Firdaus Alfaritsi.png" alt="Raihan Firdaus Alfaritsi" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Raihan Firdaus Alfaritsi
-* **Jabatan:** -
-* **TTL:** -
-* **Nomer Handphone:** -
-* **Username GitHub:** -
-* **Asal Daerah:** -
+* **Jabatan:** Anggota
+* **TTL:** Ngawi, 24 September 2005
+* **Nomer Handphone:** 0895405971849
+* **Username GitHub:** hannnzu
+* **Asal Daerah:** Ngawi
 <!-- Line Comment TTD Panitia 30 wajib ditargetkan pada baris komentar ini -->
 
 ### [31] PDD - Achmad Alvin Al Falah
