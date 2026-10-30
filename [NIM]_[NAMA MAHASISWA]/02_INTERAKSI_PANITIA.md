@@ -69,7 +69,7 @@
 ## 🏛️ Divisi Dagri (Dalam Negeri)
 
 ### [07] Dagri - Alvian Dwiky Putra Santoso
-* <img src="assets/PANITIA/Dagri/Dagri - ALVIAN_DWIKY_PUTRA S.jpeg" alt="Alvian Dwiky Putra Santoso" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/DAGRI - ALVIAN_DWIKY_PUTRA S.jpeg" alt="Alvian Dwiky Putra Santoso" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Alvian Dwiky Putra Santoso
 * **Jabatan:** Koordinator Dagri
 * **TTL:** Ponorogo, 02 Desember 2005
@@ -79,7 +79,7 @@
 <!-- Line Comment TTD Panitia 07 wajib ditargetkan pada baris komentar ini -->
 
 ### [08] Dagri - Dzakwan Daris Fakhruddin
-* <img src="assets/PANITIA/Dagri/Dagri - DZAKWAN_DARIS_FAKHRUDDIN.jpg" alt="Dzakwan Daris Fakhruddin" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/DAGRI - DZAKWAN_DARIS_FAKHRUDDIN.jpg" alt="Dzakwan Daris Fakhruddin" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Dzakwan Daris Fakhruddin
 * **Jabatan:** Anggota Dagri
 * **TTL:** Madiun, 13 April 2006
@@ -89,7 +89,7 @@
 <!-- Line Comment TTD Panitia 08 wajib ditargetkan pada baris komentar ini -->
 
 ### [09] Dagri - Firdaus Ilham Fadhlurrahman
-* <img src="assets/PANITIA/Dagri/Dagri - FIRDAUS_ILHAM_FADHLURRAHMAN.jpg" alt="Firdaus Ilham F." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/DAGRI - FIRDAUS_ILHAM_FADHLURRAHMAN.jpg" alt="Firdaus Ilham F." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Firdaus Ilham Fadhlurrahman
 * **Jabatan:** Anggota
 * **TTL:** Madiun, 01 Januari 2007
@@ -99,7 +99,7 @@
 <!-- Line Comment TTD Panitia 09 wajib ditargetkan pada baris komentar ini -->
 
 ### [10] Dagri - Bangkit Cahya Linuwih
-* <img src="assets/PANITIA/Dagri/Dagri - BANGKIT_CAHYA_LINUWIH.jpeg" alt="Bangkit Cahya Linuwih" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/DAGRI - BANGKIT_CAHYA_LINUWIH.jpeg" alt="Bangkit Cahya Linuwih" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Bangkit Cahya Linuwih
 * **Jabatan:** Staff Muda Dagri
 * **TTL:** Pacitan, 02 April 2006
@@ -109,7 +109,7 @@
 <!-- Line Comment TTD Panitia 10 wajib ditargetkan pada baris komentar ini -->
 
 ### [11] Dagri - Nadia Tifara Sidiq
-* <img src="assets/PANITIA/Dagri/Dagri - NADIA_TIFARA_SIDIQ.jpg" alt="Nadia Tifara Sidiq" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Dagri/DAGRI - NADIA_TIFARA_SIDIQ.jpg" alt="Nadia Tifara Sidiq" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Nadia Tifara Sidiq
 * **Jabatan:** Sie Acara
 * **TTL:** Madiun, 27 Desember 2005
