@@ -232,8 +232,8 @@
 * **Jabatan:** Anggota PSDM
 * **TTL:** Madiun, 19 Nopember 2005
 * **Nomer Handphone:** 089523358721
-* **Username GitHub:** -
-* **Asal Daerah:** -
+* **Username GitHub:** azzaauliyaul
+* **Asal Daerah:** rejosari, sawahan, madiun
 <!-- Line Comment TTD Panitia 22 wajib ditargetkan pada baris komentar ini -->
 
 ---
@@ -351,7 +351,7 @@
 * **TTL:** Madiun, 09 September 2006
 * **Nomer Handphone:** 085143442263
 * **Username GitHub:** @dindarahmawatii
-* **Asal Daerah:** -
+* **Asal Daerah:** Madiun
 <!-- Line Comment TTD Panitia 33 wajib ditargetkan pada baris komentar ini -->
 
 ---
