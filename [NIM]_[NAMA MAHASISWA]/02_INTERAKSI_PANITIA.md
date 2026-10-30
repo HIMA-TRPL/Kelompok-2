@@ -271,7 +271,7 @@
 <!-- Line Comment TTD Panitia 25 wajib ditargetkan pada baris komentar ini -->
 
 ### [26] Sosma - Muhsyam Fahriel S.
-* <img src="assets/PANITIA/Sosma/Sosma - Muhsyam Fahriel S..png" alt="Muhsyam Fahriel S." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/SOSMA_MUHSYAM FAHRIEL S.jpg" alt="Muhsyam Fahriel S." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Muhsyam Fahriel S.
 * **Jabatan:** Anggota Sosma
 * **TTL:** Ngawi, 25 September 2005
@@ -359,7 +359,7 @@
 ## 🏛️ Divisi DKM (Dana & Kewirausahaan Mahasiswa)
 
 ### [34] DKM - Andrian Maulana
-* <img src="assets/PANITIA/DKM/DKM - Andrian Maulana.png" alt="Andrian Maulana" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/DKM_ANDRIAN.jpg" alt="Andrian Maulana" style="object-fit:cover" width="300px" height="300px">
 * *Nama Panitia:* Andrian Maulana
 * *Jabatan:* Koordinator DKM
 * *TTL:* Ponorogo, 19 September 2005
