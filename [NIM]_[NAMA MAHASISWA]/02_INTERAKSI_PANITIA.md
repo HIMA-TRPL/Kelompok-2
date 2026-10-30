@@ -253,11 +253,11 @@
 ### [24] Sosma - [MUHAMMAD_ROFIQUL_ANAM]
 * <img src="assets/PANITIA/Sosma/SOSMA - MUHAMMAD ROFIQUL ANAM.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [MUHAMMAD_ROFIQUL_ANAM]
-* **Jabatan:** [JABATAN]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+* **Jabatan:** [ANGGOTA]
+* **TTL:** [MAGETAN, 05 MARET 2006]
+* **Nomer Handphone:** [085850296348]
+* **Username GitHub:** @[RofiqAnam]
+* **Asal Daerah:** [MAGETAN]
 <!-- Line Comment TTD Panitia 24 wajib ditargetkan pada baris komentar ini -->
 
 ### [25] Sosma - [EDWIN_NUR_CAHYO]
@@ -318,10 +318,10 @@
 * <img src="assets/PANITIA/PDD/PDD - RAIHAN FIRDAUS ALFARITSI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [RAIHAN_FIRDAUS_ALFARITSI]
 * **Jabatan:** [STAFF]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+* **TTL:** [NGAWI, 24 SEPTEMBER 2005]
+* **Nomer Handphone:** [0895405971849]
+* **Username GitHub:** @[hannnzu]
+* **Asal Daerah:** [NGAWI]
 <!-- Line Comment TTD Panitia 30 wajib ditargetkan pada baris komentar ini -->
 
 ### [31] PDD - [ACHMAD_ALVIN_AL_FALAH]
