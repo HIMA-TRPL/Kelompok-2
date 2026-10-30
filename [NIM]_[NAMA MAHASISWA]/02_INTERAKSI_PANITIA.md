@@ -474,8 +474,8 @@
 
 ---
 
-### [45] Volunteer - Galang Surya Prasetya
-* <img src="assets/PANITIA/Sosma/volunteer/VOLUNTEER_GALANG SURYA PRASETYA.jpeg" alt="GALANG SURYA PRASETYA" style="object-fit:cover" width="300px" height="300px">
+### [45] Volunteer - Galang Surya Prasetyo
+* <img src="assets/PANITIA/Sosma/volunteer/VOLUNTEER_GALANG SURYA PRASETYO.jpeg" alt="GALANG SURYA PRASETYO" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Galang Surya Prasetya
 * **Jabatan:** Volunteer (....)
 * **TTL:** Tenggarong, 19 February 2007
