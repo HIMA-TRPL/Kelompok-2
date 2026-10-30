@@ -143,7 +143,7 @@
 <!-- Line Comment TTD Panitia 13 wajib ditargetkan pada baris komentar ini -->
 
 ### [14] Humas - Alvina Nur Laila Anggraini
-* <img src="assets/PANITIA/Humas/HUMAS - ALVINA_NUR_LAILA" alt="Alvina Nur Laila Anggraini" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Humas/HUMAS - ALVINA_NUR_LAILA_ANGGRAINI.jpg" alt="Alvina Nur Laila Anggraini" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Alvina Nur Laila Anggraini
 * **Jabatan:** Anggota Humas
 * **TTL:** Surabaya, 31 Maret 2005
