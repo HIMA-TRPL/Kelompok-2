@@ -536,16 +536,6 @@
 * **Asal Sekolah:** SMKN 1 JENANGAN
 * **Fun Fact:** awas ya ITS tahun depan
 
-### 49 264311049 - Muhammad Mahlayan
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/NIM - NAMA_MAHASISWA.png" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Lengkap:** Muhammad Mahlayan
-* **NIM:** 264311049
-* **TTL:** Magetan, 1 Januari 2007
-* **Nomer Handphone:** 081994311889
-* **Nama Kelompok:** Django
-* **Asal Daerah:** Magetan
-* **Asal Sekolah:** SMAN 1 SUKOMORO
-* **Fun Fact:** bisa gambar & basket berjam2 klo udah masuk flow state
 
 ### 50 264311050 - Nadila Wulansari
 * <img src="assets/MAHASISWA_BARU/Kelas_1B/264311050_nadila.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
