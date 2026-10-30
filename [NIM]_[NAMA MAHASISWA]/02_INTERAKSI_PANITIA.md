@@ -413,7 +413,7 @@
 ## 🏛️ Divisi Volunteer
 
 ### [39] Volunteer - [SEPTIAN_ANGGA_SAPUTRA]
-* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - SEPTIAN ANGGA SAPUTRA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/VOLUNTEER - SEPTIAN ANGGA SAPUTRA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [SEPTIAN_ANGGA_SAPUTRA]
 * **Jabatan:** [VOLUNTEER]
 * **TTL:** [PONOROGO, 12_SEPTEMBER_2006]
@@ -423,7 +423,7 @@
 <!-- Line Comment TTD Panitia 39 wajib ditargetkan pada baris komentar ini -->
 
 ### [40] Volunteer - [INDAH_AYU_ASTUTI]
-* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - INDAH AYU ASTUTI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/VOLUNTEER - INDAH AYU ASTUTI.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [INDAH_AYU_ASTUTI]
 * **Jabatan:** [VOLUNTEER]
 * **TTL:** [PONOROGO, 27_DESEMBER_2006]
@@ -433,7 +433,7 @@
 <!-- Line Comment TTD Panitia 40 wajib ditargetkan pada baris komentar ini -->
 
 ### [41] Volunteer - [KUNNISOFA_RAHMAYANTI]
-* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - KUNNISOFA RAHMAYANTI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/VOLUNTEER - KUNNISOFA RAHMAYANTI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [KUNNISOFA_RAHMAYANI]
 * **Jabatan:** [VOLUNTEER]
 * **TTL:** [MADIUN, 4_JULI_2006]
@@ -443,7 +443,7 @@
 <!-- Line Comment TTD Panitia 41 wajib ditargetkan pada baris komentar ini -->
 
 ### [42] Volunteer - [AISYAH_NUR_FADILLAH]
-* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - AISYAH NUR FADILAH.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/VOLUNTEER - AISYAH NUR FADILAH.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [AISYAH_NUR_FADILLAH]
 * **Jabatan:** [VOLUNTEER]
 * **TTL:** [MAGETAN, 21_SEPTEMBER_2006]
@@ -453,7 +453,7 @@
 <!-- Line Comment TTD Panitia 42 wajib ditargetkan pada baris komentar ini -->
 
 ### [43] Volunteer - [NABIL_SUNU_WIDYA_DHANA]
-* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - NABIL SUNU WIDYA DHANA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/VOLUNTEER - NABIL SUNU WIDYA DHANA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [NABIL_SUNU_WIDYA_DHANA]
 * **Jabatan:** [VOLUNTEER]
 * **TTL:** [BEKASI_15_MARET_2006]
@@ -463,7 +463,7 @@
 <!-- Line Comment TTD Panitia 43 wajib ditargetkan pada baris komentar ini -->
 
 ### [44] Volunteer - [NADYA_NUR_KAMILA]
-* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - NADYA NUR KAMILA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/VOLUNTEER - NADYA NUR KAMILA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [NADYA_NUR_KAMILA]
 * **Jabatan:** [VOLUNTEER]
 * **TTL:** [MADIUN, 1_SEPTEMBER_2006]
@@ -473,7 +473,7 @@
 <!-- Line Comment TTD Panitia 44 wajib ditargetkan pada baris komentar ini -->
 
 ## [45] Volunteer - [ERVINDY_ANJUNI_NURMASARI]
-* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - ERVINDY ANJUNI NURMASARI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/VOLUNTEER - ERVINDY ANJUNI NURMASARI.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [ERVINDY_ANJUNI_NURMASARI]
 * **Jabatan:** [VOLUNTEER]
 * **TTL:** [MADIUN, 21_JUNI_2006]
@@ -483,7 +483,7 @@
 <!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini -->
 
 ## [46] Volunteer - [GALANG_SURYA_PRASETYO]
-* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - GALANG SURYA PRASETYO.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/VOLUNTEER - GALANG SURYA PRASETYO.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [GALANG_SURYA_PRASETYO]
 * **Jabatan:** [VOLUNTEER]
 * **TTL:** [TENGGARONG, 19 FEBRUARI 2007]
