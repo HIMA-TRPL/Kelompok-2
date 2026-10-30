@@ -153,7 +153,7 @@
 <!-- Line Comment TTD Panitia 14 wajib ditargetkan pada baris komentar ini -->
 
 ### [15] Humas - Cristian Reynaldi
-* <img src="assets/PANITIA/HUMAS/CHRISTIAN(2).jpeg" alt="CHRISTIAN" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/HUMAS/CHRISTIAN (2).jpeg" alt="CHRISTIAN" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Cristian Reynaldi
 * **Jabatan:** Perkap
 * **TTL:** Jakarta, 18 Januari 2007
