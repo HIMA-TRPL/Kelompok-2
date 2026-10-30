@@ -475,7 +475,7 @@
 ---
 
 ### [45] Volunteer - Galang Surya Prasetya
-* <img src="assets/PANITIA/Volunteer/Volunteer - Ervindy Anjuni Nurmasari.png" alt="Ervindy Anjuni Nurmasari" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/volunteer/Volunteer - Ervindy Anjuni Nurmasari.png" alt="Ervindy Anjuni Nurmasari" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Galang Surya Prasetya
 * **Jabatan:** Volunteer (....)
 * **TTL:** Tenggarong, 19 February 2007
@@ -483,6 +483,17 @@
 * **Username GitHub:** @PrassHere
 * **Asal Daerah:** Kalimantan Timur
 <!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini -->
+---
+
+### [46] Volunteer - Nadia Nur Kamila
+* <img src="assets/PANITIA/Sosma/volunteer/VOLUNTEER-NADIA_NUR_KAMILA.jpg" alt="NADIA_NUR_KAMILA" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** Nadia Nur Kamila
+* **Jabatan:** Volunteer (....)
+* **TTL:** Madiun 1 September 2006
+* **Nomer Handphone:** 085731873063
+* **Username GitHub:** @nanayaaa
+* **Asal Daerah:** Madiun
+<!-- Line Comment TTD Panitia 46 wajib ditargetkan pada baris komentar ini -->
 ---
 
 ## 📝 IV. VERIFIKASI TANDA TANGAN DIGITAL
