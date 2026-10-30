@@ -581,7 +581,7 @@
 * **Fun Fact:** [SUKA_NGOPI]
 
 ### [53] [264311054] - [PANJI_YUWONO_WIJOYO]
-* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311054 - Panji Yuwono Wijoyo.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/MAHASISWA_BARU/Kelas_1B/264311054 - PANJI YUWONO WIJOYO.jpeg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Lengkap:** [PANJI_YUWONO_WIJOYO]
 * **NIM:** [264311054]
 * **TTL:** [MADIUN,22_FEBRUARI_2008]
