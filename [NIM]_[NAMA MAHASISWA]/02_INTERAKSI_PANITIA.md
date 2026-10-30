@@ -177,7 +177,7 @@
 ## 🏛️ Divisi PSDM (Pengembangan Sumber Daya Mahasiswa)
 
 ### [17] PSDM - Riyan Zakaria Zulkarnain
-* <img src="assets/PANITIA/PSDM/PSDM - Riyan Zakaria Zulkarnain.png" alt="Riyan Zakaria Zulkarnain" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/MAS RIYAN.jpg" alt="Riyan Zakaria Zulkarnain" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Riyan Zakaria Zulkarnain
 * **Jabatan:** Koordinator PSDM
 * **TTL:** Ponorogo, 07 September 2005
@@ -187,7 +187,7 @@
 <!-- Line Comment TTD Panitia 17 wajib ditargetkan pada baris komentar ini -->
 
 ### [18] PSDM - Mohammad Dani Taufiqurrohman
-* <img src="assets/PANITIA/PSDM/PSDM - Muhammad Dani T..png" alt="Mohammad Dani Taufiqurrohman" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/MAS DANI.jpg" alt="Mohammad Dani Taufiqurrohman" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Mohammad Dani Taufiqurrohman
 * **Jabatan:** Anggota PSDM
 * **TTL:** Denpasar, 21 Maret 2006
@@ -207,7 +207,7 @@
 <!-- Line Comment TTD Panitia 19 wajib ditargetkan pada baris komentar ini -->
 
 ### [20] PSDM - Abdul Aziz Mushthofa
-* <img src="assets/PANITIA/PSDM/PSDM - Abdul Aziz Mushthofa.png" alt="Abdul Aziz Mushthofa" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/MAS AZIZ.jpeg" alt="Abdul Aziz Mushthofa" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Abdul Aziz Mushthofa
 * **Jabatan:** Staff Muda PSDM / Ketupel
 * **TTL:** Tulungagung, 13 April 2006
@@ -217,7 +217,7 @@
 <!-- Line Comment TTD Panitia 20 wajib ditargetkan pada baris komentar ini -->
 
 ### [21] PSDM - Tiara Maya Lestari
-* <img src="assets/PANITIA/PSDM/PSDM - Tiara Maya Lestari.png" alt="Tiara Maya Lestari" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/KAK TIARA MAYA.jpg" alt="Tiara Maya Lestari" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Tiara Maya Lestari
 * **Jabatan:** Anggota PSDM
 * **TTL:** Nganjuk, 11 Maret 2006
@@ -241,7 +241,7 @@
 ## 🏛️ Divisi Sosma (Sosial Masyarakat)
 
 ### [23] Sosma - Anggi Wahyu Saputra
-* <img src="assets/PANITIA/Sosma/Sosma - Anggi Wahyu Saputra.png" alt="Anggi Wahyu Saputra" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/MAS ANGGI WAHYU.jpg" alt="Anggi Wahyu Saputra" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Anggi Wahyu Saputra
 * **Jabatan:** Koordinator Sosma
 * **TTL:** Tulungagung, 14 Juni 2005
@@ -261,7 +261,7 @@
 <!-- Line Comment TTD Panitia 24 wajib ditargetkan pada baris komentar ini -->
 
 ### [25] Sosma - Edwin Nur Cahyo
-* <img src="assets/PANITIA/Sosma/Sosma - Edwin Nur Cahyo.png" alt="Edwin Nur Cahyo" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/MAS EDWIN.jpeg" alt="Edwin Nur Cahyo" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Edwin Nur Cahyo
 * **Jabatan:** Anggota Sosma
 * **TTL:** Dagangan, Madiun, 01 November 2006
@@ -281,7 +281,7 @@
 <!-- Line Comment TTD Panitia 26 wajib ditargetkan pada baris komentar ini -->
 
 ### [27] Sosma - Lutfilah Ahmad
-* <img src="assets/PANITIA/Sosma/Sosma - Lutfilah Ahmad.png" alt="Lutfilah Ahmad" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/MAS LUTPI.jpeg" alt="Lutfilah Ahmad" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Lutfilah Ahmad
 * **Jabatan:** Staff Muda
 * **TTL:** Magetan, 30 Januari 2007
@@ -295,7 +295,7 @@
 ## 🏛️ Divisi PDD (Publikasi, Dokumentasi & Desain)
 
 ### [28] PDD - Ardhana Syah Hidayat
-* <img src="assets/PANITIA/PDD/PDD - Ardhana Syah Hidayat.png" alt="Ardhana Syah Hidayat" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/MAS ARDHANA.jpg" alt="Ardhana Syah Hidayat" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Ardhana Syah Hidayat
 * **Jabatan:** Koordinator PDD
 * **TTL:** Ponorogo, 04 Juli 2005
@@ -305,7 +305,7 @@
 <!-- Line Comment TTD Panitia 28 wajib ditargetkan pada baris komentar ini -->
 
 ### [29] PDD - Raditya Alfareza Purnama Putra
-* <img src="assets/PANITIA/PDD/PDD - Raditya Alfareeza Purnama.png" alt="Raditya Alfareza Purnama Putra" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/MAS RADIT.jpg" alt="Raditya Alfareza Purnama Putra" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Raditya Alfareza Purnama Putra
 * **Jabatan:** Anggota PDD
 * **TTL:** Madiun, 04 Maret 2006
@@ -325,7 +325,7 @@
 <!-- Line Comment TTD Panitia 30 wajib ditargetkan pada baris komentar ini -->
 
 ### [31] PDD - Achmad Alvin Al Falah
-* <img src="assets/PANITIA/PDD/PDD - Achmad Alvin Al Falah.png" alt="Achmad Alvin Al Falah" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/MAS ALVIN.jpg" alt="Achmad Alvin Al Falah" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Achmad Alvin Al Falah
 * **Jabatan:** PJ
 * **TTL:** Ponorogo, 18 Januari 2006
@@ -335,7 +335,7 @@
 <!-- Line Comment TTD Panitia 31 wajib ditargetkan pada baris komentar ini -->
 
 ### [32] PDD - Daffa Hafist Atha Kuncoro
-* <img src="assets/PANITIA/PDD/PDD - Daffa Hafist Atha Kuncoro.png" alt="Daffa Hafist Atha Kuncoro" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/MAS DAFFA.jpg" alt="Daffa Hafist Atha Kuncoro" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Daffa Hafist Atha Kuncoro
 * **Jabatan:** Staff Muda
 * **TTL:** Surabaya, 16 Januari 2007
@@ -345,7 +345,7 @@
 <!-- Line Comment TTD Panitia 32 wajib ditargetkan pada baris komentar ini -->
 
 ### [33] PDD - Dinda Rahmawati
-* <img src="assets/PANITIA/PDD/PDD - Dinda Rahmawati.png" alt="Dinda Rahmawati" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PDD/KAK DINDA.jpg" alt="Dinda Rahmawati" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Dinda Rahmawati
 * **Jabatan:** Staff Muda
 * **TTL:** Madiun, 09 September 2006
