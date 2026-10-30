@@ -198,12 +198,12 @@
 
 ### [19] PSDM - [RINDY_CANTIKA_AGUSTINA_P]
 * <img src="assets/PANITIA/PSDM/PSDM - RINDY CANTIKA AGUSTINA_P.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** [RINDY_CANTIKA_AGUSTINA_P]
-* **Jabatan:** [PSDM]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+* **Nama Panitia:** [RINDY_CANTIKA_AGUSTINA_PUTRI]
+* **Jabatan:** [STAFF PSDM]
+* **TTL:** [MADIUN, 31 AGUSTUS 2006]
+* **Nomer Handphone:** [081553111275]
+* **Username GitHub:** @[111ndy]
+* **Asal Daerah:** [MADIUN]
 <!-- Line Comment TTD Panitia 19 wajib ditargetkan pada baris komentar ini -->
 
 ### [20] PSDM - [ABDUL_AZIZ_MUSHTHOFA]
@@ -229,11 +229,11 @@
 ### [22] PSDM - [AZZA_AULIYAUL_F]
 * <img src="assets/PANITIA/PSDM/PSDM - AZZA AULIYAUL F.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [AZZA_AULIYAUL_F]
-* **Jabatan:** [STAFF]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+* **Jabatan:** [STAFF PSDM]
+* **TTL:** [MADIUN, 19 NOVEMBER 2005]
+* **Nomer Handphone:** [089523358721]
+* **Username GitHub:** @[azzaauliyaul]
+* **Asal Daerah:** [MADIUN]
 <!-- Line Comment TTD Panitia 22 wajib ditargetkan pada baris komentar ini -->
 
 ---
@@ -362,10 +362,10 @@
 * <img src="assets/PANITIA/DKM/DKM - ANDRIAN MAULANA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [ANDRIAN_MAULANA]
 * **Jabatan:** [KOORDINATOR]
-* **TTL:** [TTL]
-* **Nomer Handphone:** [NOMER_HANDPHONE]
-* **Username GitHub:** @[USERNAME_GITHUB]
-* **Asal Daerah:** [KOTA/KABUPATEN]
+* **TTL:** [PONOROGO, 19 SEPTEMBER 2005]
+* **Nomer Handphone:** [089524151260]
+* **Username GitHub:** @[driannminaa]
+* **Asal Daerah:** [PONOROGO]
 <!-- Line Comment TTD Panitia 34 wajib ditargetkan pada baris komentar ini -->
 
 ### [35] DKM - [JIMLI_DWI_ASSIDDIQI]
@@ -482,6 +482,15 @@
 * **Asal Daerah:** [MADIUN]
 <!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini -->
 
+## [46] Volunteer - [GALANG_SURYA_PRASETYO]
+* <img src="assets/PANITIA/VOLUNTEER/VOLUNTEER - GALANG SURYA PRASETYO.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** [GALANG_SURYA_PRASETYO]
+* **Jabatan:** [VOLUNTEER]
+* **TTL:** [TENGGARONG, 19 FEBRUARI 2007]
+* **Nomer Handphone:** [081247074623]
+* **Username GitHub:** @[PrassHere]
+* **Asal Daerah:** [KALIMANTAN TIMUR]
+<!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini -->
 ---
 
 ## 📝 IV. VERIFIKASI TANDA TANGAN DIGITAL
