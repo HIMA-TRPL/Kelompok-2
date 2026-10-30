@@ -227,7 +227,7 @@
 <!-- Line Comment TTD Panitia 21 wajib ditargetkan pada baris komentar ini -->
 
 ### [22] PSDM - Azza Auliyaul F.
-* <img src="assets/PANITIA/PSDM/PSDM - Azza Auliyaul F..png" alt="Azza Auliyaul F." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/KAK AZZA.jpeg" alt="Azza Auliyaul F." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Azza Auliyaul F.
 * **Jabatan:** Anggota PSDM
 * **TTL:** Madiun, 19 November 2005
@@ -359,7 +359,7 @@
 ## 🏛️ Divisi DKM (Dana & Kewirausahaan Mahasiswa)
 
 ### [34] DKM - Andrian Maulana
-* <img src="assets/PANITIA/DKM/DKM - Andrian Maulana.png" alt="Andrian Maulana" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/MAS ANDRIAN.jpg" alt="Andrian Maulana" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Andrian Maulana
 * **Jabatan:** Koordinator DKM
 * **TTL:** Ponorogo, 19 September 2005
@@ -413,7 +413,7 @@
 ## 🏛️ Volunteer
 
 ### [39] Volunteer - Septian Angga Saputra
-* <img src="assets/PANITIA/Volunteer/Volunteer - Septian Angga Saputra.png" alt="Septian Angga Saputra" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/MAS SEPTIAN.jpg" alt="Septian Angga Saputra" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Septian Angga Saputra
 * **Jabatan:** Volunteer
 * **TTL:** Ponorogo, 12 September 2006
@@ -423,7 +423,7 @@
 <!-- Line Comment TTD Panitia 39 wajib ditargetkan pada baris komentar ini -->
 
 ### [40] Volunteer - Indah Ayu Astuti
-* <img src="assets/PANITIA/Volunteer/Volunteer - Indah Ayu Astuti.png" alt="Indah Ayu Astuti" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/KAK INDAH.jpeg" alt="Indah Ayu Astuti" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Indah Ayu Astuti
 * **Jabatan:** Volunteer
 * **TTL:** Ponorogo, 27 Desember 2006
@@ -433,7 +433,7 @@
 <!-- Line Comment TTD Panitia 40 wajib ditargetkan pada baris komentar ini -->
 
 ### [41] Volunteer - Kunni Sofa Rahmayani
-* <img src="assets/PANITIA/Volunteer/Volunteer - Kunni Sofa Rahmayani.png" alt="Kunni Sofa Rahmayani" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Volunteer/KAK KUNNI SOFA.jpg" alt="Kunni Sofa Rahmayani" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Kunni Sofa Rahmayani
 * **Jabatan:** Volunteer
 * **TTL:** Madiun, 04 Juli 2006
