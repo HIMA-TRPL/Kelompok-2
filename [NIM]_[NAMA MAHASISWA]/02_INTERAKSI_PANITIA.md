@@ -413,7 +413,7 @@
 ## 🏛️ Volunteer
 
 ### [39] Volunteer - Septian Angga Saputra
-* <img src="assets/PANITIA/Volunteer/VOLUNTEER_SEPTIAN ANGGA SAPUTRA.jpg" alt="SEPTIAN ANGGA SAPUTRA" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/volunteer/VOLUNTEER_SEPTIAN ANGGA SAPUTRA.jpg" alt="SEPTIAN ANGGA SAPUTRA" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Septian Angga Saputra
 * **Jabatan:** Volunteer
 * **TTL:** Ponorogo, 12 September 2006
