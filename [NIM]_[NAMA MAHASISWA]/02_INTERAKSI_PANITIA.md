@@ -133,7 +133,7 @@
 <!-- Line Comment TTD Panitia 12 wajib ditargetkan pada baris komentar ini -->
 
 ### [13] Humas - Muhammad Raufa Hafid Widodo
-* <img src="assets/PANITIA/Sosma/HUMAS/HUMAS_MUHAMMAD RAUFA HAFID W_.png" alt="MUHAMMAD RAUFA HAFID W_" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/HUMAS/HUMAS_MUHAMMAD RAUFA HAFID W_.jpg" alt="MUHAMMAD RAUFA HAFID W_" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Muhammad Raufa Hafid Widodo
 * **Jabatan:** Anggota Humas
 * **TTL:** Madiun, 26 September 2005
@@ -163,7 +163,7 @@
 <!-- Line Comment TTD Panitia 15 wajib ditargetkan pada baris komentar ini -->
 
 ### [16] Humas - Atha Aryasatya
-* <img src="assets/PANITIA/Sosma/HUMAS/HUMAS_ATHA PRASATYA.jpg" alt="ATHA PRASATYA" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/HUMAS/HUMAS_ATHA ARYASATYA.jpg" alt="ATHA ARYASATYA" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Atha Aryasatya
 * **Jabatan:** Staff Humas
 * **TTL:** Madiun, 22 Februari 2005
@@ -486,7 +486,7 @@
 ---
 
 ### [46] Volunteer - Nadia Nur Kamila
-* <img src="assets/PANITIA/Sosma/volunteer/VOLUNTEER-NADIA_NUR_KAMILA.jpg" alt="NADIA_NUR_KAMILA" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/Sosma/volunteer/VOLUNTEER - NADIA_NUR_KAMILA.jpg" alt="NADIA_NUR_KAMILA" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Nadia Nur Kamila
 * **Jabatan:** Volunteer (....)
 * **TTL:** Madiun 1 September 2006
