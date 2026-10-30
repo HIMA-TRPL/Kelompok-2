@@ -197,7 +197,7 @@
 <!-- Line Comment TTD Panitia 18 wajib ditargetkan pada baris komentar ini -->
 
 ### [19] PSDM - [RINDY_CANTIKA_AGUSTINA_P]
-* <img src="assets/PANITIA/PSDM/PSDM - RINDY CANTIKA AGUSTINA_P.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/PSDM/PSDM - RINDY CANTIKA AGUSTINA P..jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** [RINDY_CANTIKA_AGUSTINA_PUTRI]
 * **Jabatan:** [STAFF PSDM]
 * **TTL:** [MADIUN, 31 AGUSTUS 2006]
