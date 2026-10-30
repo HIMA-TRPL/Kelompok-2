@@ -317,11 +317,11 @@
 ### [30] PDD - Raihan Firdaus Alfaritsi
 * <img src="assets/PANITIA/PDD/PDD - Raihan Firdaus Alfaritsi.png" alt="Raihan Firdaus Alfaritsi" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Raihan Firdaus Alfaritsi
-* **Jabatan:** -
-* **TTL:** -
-* **Nomer Handphone:** -
-* **Username GitHub:** -
-* **Asal Daerah:** -
+* **Jabatan:** PDD
+* **TTL:** 24 september 2005
+* **Nomer Handphone:** 0895-4059-71849
+* **Username GitHub:** hannnzu
+* **Asal Daerah:** Ngawi
 <!-- Line Comment TTD Panitia 30 wajib ditargetkan pada baris komentar ini -->
 
 ### [31] PDD - Achmad Alvin Al Falah
@@ -474,6 +474,15 @@
 
 ---
 
+### [45] Volunteer - Galang Surya Prasetya
+* <img src="assets/PANITIA/Volunteer/Volunteer - Ervindy Anjuni Nurmasari.png" alt="Ervindy Anjuni Nurmasari" style="object-fit:cover" width="300px" height="300px">
+* **Nama Panitia:** Galang Surya Prasetya
+* **Jabatan:** Volunteer (....)
+* **TTL:** Tenggarong, 19 February 2007
+* **Nomer Handphone:** 081247074623
+* **Username GitHub:** @PrassHere
+* **Asal Daerah:** Kalimantan Timur
+<!-- Line Comment TTD Panitia 45 wajib ditargetkan pada baris komentar ini -->
 ---
 
 ## 📝 IV. VERIFIKASI TANDA TANGAN DIGITAL
