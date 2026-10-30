@@ -359,13 +359,13 @@
 ## 🏛️ Divisi DKM (Dana & Kewirausahaan Mahasiswa)
 
 ### [34] DKM - Andrian Maulana
-* <img src="assets/PANITIA/DKM/DKM - Andrian Maulana.png" alt="Andrian Maulana" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/DKM_ANDRIAN MAULANA.jpeg" alt="ANDRIAN MAULANA" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Andrian Maulana
-* **Jabatan:** -
-* **TTL:** -
-* **Nomer Handphone:** -
-* **Username GitHub:** -
-* **Asal Daerah:** -
+* **Jabatan:** koor DKM
+* **TTL:** 19 september 2005
+* **Nomer Handphone:** 089524151260
+* **Username GitHub:** driannminaa
+* **Asal Daerah:** ponorogo
 <!-- Line Comment TTD Panitia 34 wajib ditargetkan pada baris komentar ini -->
 
 ### [35] DKM - Jimli Dwi Assiddiqi
