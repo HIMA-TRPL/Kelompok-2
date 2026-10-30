@@ -806,7 +806,7 @@
 - **Asal Sekolah:** [SMKN_2_SURAKARTA]
 - **Fun Fact:** [I_LIEK_MUSIC_AND_FILM]
 
-### [68] [264311068] - [F]
+### [68] [264311068] - [EVAN_BHAGASKARA]
 
 - <img src="assets/MAHASISWA_BARU/Kelas_1C/264311068-EVAN_BHAGASKARA.jpg" alt="Description" style="object-fit:cover" width="300px" height="300px">
 - **Nama Lengkap:** [F]
