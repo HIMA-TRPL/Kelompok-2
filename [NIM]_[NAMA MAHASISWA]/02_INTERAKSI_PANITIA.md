@@ -228,12 +228,12 @@
 
 ### [22] PSDM - Azza Auliyaul F.
 * <img src="assets/PANITIA/PSDM/PSDM - Azza Auliyaul F..png" alt="Azza Auliyaul F." style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** Azza Auliyaul F.
-* **Jabatan:** -
-* **TTL:** -
-* **Nomer Handphone:** -
-* **Username GitHub:** -
-* **Asal Daerah:** -
+* *Nama Panitia:* Azza Auliyaul F.
+* *Jabatan:* Anggota PSDM
+* *TTL:* Madiun, 19 November 2005
+* *Nomer Handphone:* 089523358721
+* *Username GitHub:* @azzaauliyaul
+* *Asal Daerah:* Rejosari, Sawahan, Madiun
 <!-- Line Comment TTD Panitia 22 wajib ditargetkan pada baris komentar ini -->
 
 ---
@@ -252,12 +252,12 @@
 
 ### [24] Sosma - Muhammad Rofiqul Anam
 * <img src="assets/PANITIA/Sosma/Sosma - Muhammad Rofiqul Anam.png" alt="Muhammad Rofiqul Anam" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** Muhammad Rofiqul Anam
-* **Jabatan:** -
-* **TTL:** -
-* **Nomer Handphone:** -
-* **Username GitHub:** -
-* **Asal Daerah:** -
+* *Nama Panitia:* Muhammad Rofiqul Anam
+* *Jabatan:* Anggota Sosma
+* *TTL:* Magetan, 05 Maret 2006
+* *Nomer Handphone:* 085850296348
+* *Username GitHub:* @RofiqAnam
+* *Asal Daerah:* Magetan
 <!-- Line Comment TTD Panitia 24 wajib ditargetkan pada baris komentar ini -->
 
 ### [25] Sosma - Edwin Nur Cahyo
@@ -360,12 +360,12 @@
 
 ### [34] DKM - Andrian Maulana
 * <img src="assets/PANITIA/DKM/DKM - Andrian Maulana.png" alt="Andrian Maulana" style="object-fit:cover" width="300px" height="300px">
-* **Nama Panitia:** Andrian Maulana
-* **Jabatan:** -
-* **TTL:** -
-* **Nomer Handphone:** -
-* **Username GitHub:** -
-* **Asal Daerah:** -
+* *Nama Panitia:* Andrian Maulana
+* *Jabatan:* Koordinator DKM
+* *TTL:* Ponorogo, 19 September 2005
+* *Nomer Handphone:* 089524151260
+* *Username GitHub:* @driannmlnaa
+* *Asal Daerah:* Ponorogo
 <!-- Line Comment TTD Panitia 34 wajib ditargetkan pada baris komentar ini -->
 
 ### [35] DKM - Jimli Dwi Assiddiqi
