@@ -45,7 +45,7 @@
 <!-- Line Comment TTD Panitia 04 wajib ditargetkan pada baris komentar ini -->
 
 ### [05] BPH - Alivia Rizka Wardani
-* <img src="assets/PANITIA/BPH/alvia.jpeg" alt="alvia" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/BPH/alvia.jpg" alt="alvia" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Alivia Rizka Wardani
 * **Jabatan:** Bendahara 1
 * **TTL:** Ngawi, 12 September 2007
