@@ -379,7 +379,7 @@
 <!-- Line Comment TTD Panitia 35 wajib ditargetkan pada baris komentar ini -->
 
 ### [36] DKM - Dheandra Khairunnisa P.
-* <img src="assets/PANITIA/DKM/DKM_DHEANDRA KHAIRUNNISA P..jpg" alt="DHEANDRA KHAIRUNNISA P." style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/DKM_DHEANDRA KHAIRUNISA P..jpg" alt="DHEANDRA KHAIRUNNISA P." style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Dheandra Khairunnisa P.
 * **Jabatan:** Sie Kesehatan
 * **TTL:** Madiun, 27 September 2005
@@ -399,7 +399,7 @@
 <!-- Line Comment TTD Panitia 37 wajib ditargetkan pada baris komentar ini -->
 
 ### [38] DKM - Silfina Nur Fadilah
-* <img src="assets/PANITIA/DKM/DKM_SILFINA NUR FADILAH-Copy.jpg" alt="SILFINA NUR FADILAH" style="object-fit:cover" width="300px" height="300px">
+* <img src="assets/PANITIA/DKM/DKM_SILFINA NUR FADILAH - Copy.jpg" alt="SILFINA NUR FADILAH" style="object-fit:cover" width="300px" height="300px">
 * **Nama Panitia:** Silfina Nur Fadilah
 * **Jabatan:** Anggota DKM
 * **TTL:** Magetan, 02 Oktober 2006
