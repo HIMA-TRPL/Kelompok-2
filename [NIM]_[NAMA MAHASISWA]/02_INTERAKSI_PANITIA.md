@@ -17,7 +17,7 @@
 
 ### [02] BPH - Muhammad Adam Al-Kidri
 
-- <img src="assets/PANITIA/BPH/BPH_MUHAMMAD ADAM AL-KIDRI.JPG" alt="Muhammad Adam Al-Kidri" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/BPH/BPH_MUHAMMAD ADAM AL-KIDRI.jpg" alt="Muhammad Adam Al-Kidri" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Muhammad Adam Al-Kidri
 - **Jabatan:** Wakil Ketua
 - **TTL:** Magetan, 08 September 2005
