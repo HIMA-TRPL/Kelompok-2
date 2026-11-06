@@ -496,7 +496,7 @@
 
 ### [43] Volunteer - Nabil Sunu Widyadhana
 
-- <img src="assets/PANITIA/VOLUNTEER_NABIL SUNU WIDYA DHANA.jpg" alt="Nabil Sunu Widyadhana" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/Volunteer/VOLUNTEER_NABIL SUNU WIDYA DHANA.jpg" alt="Nabil Sunu Widyadhana" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Nabil Sunu Widyadhana
 - **Jabatan:** Volunteer
 - **TTL:** Bekasi, 15 Maret 2006
