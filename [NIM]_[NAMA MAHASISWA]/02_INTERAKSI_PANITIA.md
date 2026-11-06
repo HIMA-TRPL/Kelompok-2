@@ -76,7 +76,7 @@
 
 ### [07] Dagri - Alvian Dwiky Putra S
 
-- <img src="assets/PANITIA/Dagri/Dagri - Alvian Dwiky Putra S.png" alt="Alvian Dwiky Putra S" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/Dagri/DAGRI_ALVIAN DWIKY PUTRA S..jpeg" alt="Alvian Dwiky Putra S" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Alvian Dwiky Putra S
 - **Jabatan:** Koordinator
 - **TTL:** Ponorogo, 2 Desember 2005
@@ -87,7 +87,7 @@
 
 ### [08] Dagri - Dzakwan Daris Fakhruddin
 
-- <img src="assets/PANITIA/Dagri/Dagri - Dzakwan Daris Fakhruddin.png" alt="Dzakwan Daris Fakhruddin" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/Dagri/DAGRI_DZAKWAN DARIS FAKHRUDDIN.jpg" alt="Dzakwan Daris Fakhruddin" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Dzakwan Daris Fakhruddin
 - **Jabatan:** anggota
 - **TTL:** Madiun, 13 April 06
@@ -98,7 +98,7 @@
 
 ### [09] Dagri - Firdaus Ilham F.
 
-- <img src="assets/PANITIA/Dagri/Dagri - Firdaus Ilham F..png" alt="Firdaus Ilham F." style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/Dagri/DAGRI_FIRDAUS ILHAM F..jpg" alt="Firdaus Ilham F." style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Firdaus Ilham F.
 - **Jabatan:** Anggota
 - **TTL:** Madiun, 01 Januarii 2007
@@ -109,7 +109,7 @@
 
 ### [10] Dagri - Bangkit Cahya Linuwih
 
-- <img src="assets/PANITIA/Dagri/Dagri - Bangkit Cahya Linuwih.png" alt="Bangkit Cahya Linuwih" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/DAGRI_BANGKIT CAHYA LINUWIH.jpeg" alt="Bangkit Cahya Linuwih" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Bangkit Cahya Linuwih
 - **Jabatan:** Komdis
 - **TTL:** Pacitan, 02 April 2006
@@ -120,7 +120,7 @@
 
 ### [11] Dagri - Nadia Tifara S.
 
-- <img src="assets/PANITIA/Dagri/Dagri - Nadia Tifara S..png" alt="Nadia Tifara S." style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/Dagri/DAGRI_NADIA TIFARA SIDIQ.jpg" alt="Nadia Tifara S." style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Nadia Tifara S.
 - **Jabatan:** Sie Acara
 - **TTL:** Madiun, 27 Desember 2005
@@ -135,7 +135,7 @@
 
 ### [12] Humas - Adam Noverian
 
-- <img src="assets/PANITIA/Humas/Humas - Adam Noverian.png" alt="Adam Noverian" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/Humas/HUMAS_ADAM NOVERIAN.jpg" alt="Adam Noverian" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Adam Noverian
 - **Jabatan:** Ketua Humas
 - **TTL:** Surabaya, 8 November 2005
@@ -146,7 +146,7 @@
 
 ### [13] Humas - Muhammad Raufa Hafid W.
 
-- <img src="assets/PANITIA/Humas/Humas - Muhammad Raufa Hafid W..png" alt="Muhammad Raufa Hafid W." style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/Humas/HUMAS_MUHAMMAD RAUFA HAFID W..jpg" alt="Muhammad Raufa Hafid W." style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Muhammad Raufa Hafid W.
 - **Jabatan:** Anggota
 - **TTL:** Madiun, 26 September 2005
@@ -157,7 +157,7 @@
 
 ### [14] Humas - Alvina Nur Laila Anggraini
 
-- <img src="assets/PANITIA/Humas/Humas - Alvina Nur Laila Anggraini.png" alt="Alvina Nur Laila Anggraini" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/Humas/HUMAS_ALVINA NUR LAILA ANGGRAINI.jpg" alt="Alvina Nur Laila Anggraini" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Alvina Nur Laila Anggraini
 - **Jabatan:** Anggota
 - **TTL:** Surabaya, 31 Maret 2005
@@ -168,7 +168,7 @@
 
 ### [15] Humas - Cristian Reynaldi
 
-- <img src="assets/PANITIA/Humas/Humas - Cristian Reynaldi.png" alt="Cristian Reynaldi" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/Humas/HUMAS_CRISTIAN REYNALDI.jpeg" alt="Cristian Reynaldi" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Cristian Reynaldi
 - **Jabatan:** Perkap
 - **TTL:** Jakarta, 18 Januari 2007
@@ -179,7 +179,7 @@
 
 ### [16] Humas - Atha Aryasatya
 
-- <img src="assets/PANITIA/Humas/Humas - Atha Aryasatya.png" alt="Atha Aryasatya" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/Humas/HUMAS_ATHA ARYASATYA.jpg" alt="Atha Aryasatya" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Atha Aryasatya
 - **Jabatan:** Staff muda
 - **TTL:** Madiun, 22 Februari 2005
@@ -194,7 +194,7 @@
 
 ### [17] PSDM - Riyan Zakaria Zulkarnain
 
-- <img src="assets/PANITIA/PSDM/PSDM - Riyan Zakaria Zulkarnain.png" alt="Riyan Zakaria Zulkarnain" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/PSDM/PSDM_RIYAN ZAKARIA ZULKARNAIN.jpg" alt="Riyan Zakaria Zulkarnain" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Riyan Zakaria Zulkarnain
 - **Jabatan:** Koor PSDM
 - **TTL:** Ponorogo, 7 September 2005
@@ -205,7 +205,7 @@
 
 ### [18] PSDM - Mohammad Dani T.
 
-- <img src="assets/PANITIA/PSDM/PSDM - Mohammad Dani T..png" alt="Muhammad Dani T." style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/PSDM/PSDM_MOHAMMAD DANI T..jpg" alt="Muhammad Dani T." style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Mohammad Dani T.
 - **Jabatan:** Staff PSDM
 - **TTL:** Denpasar, 21 Maret 2006
@@ -216,7 +216,7 @@
 
 ### [19] PSDM - Rindy Cantika Agustina P.
 
-- <img src="assets/PANITIA/PSDM/PSDM - Rindy Cantika Agustina P..png" alt="Rindy Cantika Agustina P." style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/PSDM/PSDM_RINDY CANTIKA AGUSTINA P..jpg" alt="Rindy Cantika Agustina P." style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Rindy Cantika Agustina P.
 - **Jabatan:** -
 - **TTL:** -
@@ -227,7 +227,7 @@
 
 ### [20] PSDM - Abdul Aziz Mushthofa
 
-- <img src="assets/PANITIA/PSDM/PSDM - Abdul Aziz Mushthofa.png" alt="Abdul Aziz Mushthofa" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/PSDM/PSDM_ABDUL AZIZ MUSHTHOFA.jpeg" alt="Abdul Aziz Mushthofa" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Abdul Aziz Mushthofa
 - **Jabatan:** Staff Muda / Ketupel
 - **TTL:** Tulungagung, 13 April 2006
@@ -264,7 +264,7 @@
 
 ### [23] Sosma - Anggi Wahyu Saputra
 
-- <img src="assets/PANITIA/Sosma/Sosma - Anggi Wahyu Saputra.png" alt="Anggi Wahyu Saputra" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/Sosma/SOSMA_ANGGI WAHYU SAPUTRA.jpg" alt="Anggi Wahyu Saputra" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Anggi Wahyu Saputra
 - **Jabatan:** Koordinator
 - **TTL:** Tulungagung, 14 Juni 2005
@@ -286,7 +286,7 @@
 
 ### [25] Sosma - Edwin Nur Cahyo
 
-- <img src="assets/PANITIA/Sosma/Sosma - Edwin Nur Cahyo.png" alt="Edwin Nur Cahyo" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/Sosma/SOSMA_EDWIN NUR CAHYO.jpeg" alt="Edwin Nur Cahyo" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Edwin Nur Cahyo
 - **Jabatan:** Anggota
 - **TTL:** Madiun, 1 November 2007
@@ -297,7 +297,7 @@
 
 ### [26] Sosma - Muhsyam Fahriel S.
 
-- <img src="assets/PANITIA/Sosma/Sosma - Muhsyam Fahriel S..png" alt="Muhsyam Fahriel S." style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/Sosma/SOSMA_MUHSYAM FAHRIEL S.jpg" alt="Muhsyam Fahriel S." style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Muhsyam Fahriel S.
 - **Jabatan:** Anggota Sosma
 - **TTL:** Ngawi, 25 September 2005
@@ -308,7 +308,7 @@
 
 ### [27] Sosma - Lutfilah Ahmad
 
-- <img src="assets/PANITIA/Sosma/Sosma - Lutfilah Ahmad.png" alt="Lutfilah Ahmad" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/Sosma/SOSMA_LUTFILAH AHMAD.jpeg" alt="Lutfilah Ahmad" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Lutfilah Ahmad
 - **Jabatan:** Staf Muda
 - **TTL:** Magetan, 30 Januari 2007
@@ -323,7 +323,7 @@
 
 ### [28] PDD - Ardhana Syah Hidayat
 
-- <img src="assets/PANITIA/PDD/PDD - Ardhana Syah Hidayat.png" alt="Ardhana Syah Hidayat" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/PDD/PDD_ARDHANA SYAH HIDAYAT.jpg" alt="Ardhana Syah Hidayat" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Ardhana Syah Hidayat
 - **Jabatan:** Koordinator
 - **TTL:** Ponorogo, 27 Desember 2005
@@ -334,7 +334,7 @@
 
 ### [29] PDD - Raditya Alfareeza Purnama
 
-- <img src="assets/PANITIA/PDD/PDD - Raditya Alfareeza Purnama.png" alt="Raditya Alfareeza Purnama" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/PDD/PDD_RADITYA ALFAREZA P. P..jpg" alt="Raditya Alfareeza Purnama" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Raditya Alfareeza Purnama
 - **Jabatan:** staff
 - **TTL:** -
@@ -356,7 +356,7 @@
 
 ### [31] PDD - Achmad Alvin Al Falah
 
-- <img src="assets/PANITIA/PDD/PDD - Achmad Alvin Al Falah.png" alt="Achmad Alvin Al Falah" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/PDD/PDD_ACHMAD ALVIN AL FALAH.jpg" alt="Achmad Alvin Al Falah" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Achmad Alvin Al Falah
 - **Jabatan:** staff
 - **TTL:** Ponorogo, 18 Januari 2006
@@ -367,7 +367,7 @@
 
 ### [32] PDD - Daffa Hafist Atha Kuncoro
 
-- <img src="assets/PANITIA/PDD/PDD - Daffa Hafist Atha Kuncoro.png" alt="Daffa Hafist Atha Kuncoro" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/PDD/PDD_DAFFA HAFIST KUNCORO.jpg" alt="Daffa Hafist Atha Kuncoro" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Daffa Hafist Atha Kuncoro
 - **Jabatan:** Staff muda
 - **TTL:** Surabaya, 16 Januari 07
@@ -393,7 +393,7 @@
 
 ### [34] DKM - Andrian Maulana
 
-- <img src="assets/PANITIA/DKM/DKM - Andrian Maulana.png" alt="Andrian Maulana" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/DKM/Andrian - PSDM.jpg" alt="Andrian Maulana" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Andrian Maulana
 - **Jabatan:** kordinator
 - **TTL:** -
@@ -452,7 +452,7 @@
 
 ### [39] Volunteer - Septian Angga Saputra
 
-- <img src="assets/PANITIA/Volunteer/Volunteer - Septian Angga Saputra.png" alt="Septian Angga Saputra" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/Volunteer/VOLUNTEER_SEPTIAN ANGGA SAPUTRA.jpg" alt="Septian Angga Saputra" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Septian Angga Saputra
 - **Jabatan:** Volunteer
 - **TTL:** Ponorogo, 12 September 2006
@@ -463,7 +463,7 @@
 
 ### [40] Volunteer - Indah Ayu Astuti
 
-- <img src="assets/PANITIA/Volunteer/Volunteer - Indah Ayu Astuti.png" alt="Indah Ayu Astuti" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/Volunteer/VOLUNTEER_INDAH AYU ASTUTI.jpeg" alt="Indah Ayu Astuti" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Indah Ayu Astuti
 - **Jabatan:** Volunteer
 - **TTL:** Ponorogo, 27 Desember 2006
@@ -474,7 +474,7 @@
 
 ### [41] Volunteer - Kunni Sofa Rahmayani
 
-- <img src="assets/PANITIA/Volunteer/Volunteer - Kunni Sofa Rahmayani.png" alt="Kunni Sofa Rahmayani" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/Volunteer/VOLUNTEER_KUNNI SOFA RAHMAYANI.jpg" alt="Kunni Sofa Rahmayani" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Kunni Sofa Rahmayani
 - **Jabatan:** Volunteer
 - **TTL:** Madiun, 4 Juli 2006
@@ -485,7 +485,7 @@
 
 ### [42] Volunteer - Aisyah Nur Fadillah
 
-- <img src="assets/PANITIA/Volunteer/Volunteer - Aisyah Nur Fadillah.png" alt="Aisyah Nur Fadillah" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/Volunteer/VOLUNTEER_AISYAH NUR FADILLAH.jpeg" alt="Aisyah Nur Fadillah" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Aisyah Nur Fadillah
 - **Jabatan:** Volunteer
 - **TTL:** Magetan, 21 September 2006
@@ -496,7 +496,7 @@
 
 ### [43] Volunteer - Nabil Sunu Widyadhana
 
-- <img src="assets/PANITIA/Volunteer/Volunteer - Nabil Sunu Widyadhana.png" alt="Nabil Sunu Widyadhana" style="object-fit:cover" width="300px" height="300px">
+- <img src="assets/PANITIA/VOLUNTEER_NABIL SUNU WIDYA DHANA.jpg" alt="Nabil Sunu Widyadhana" style="object-fit:cover" width="300px" height="300px">
 - **Nama Panitia:** Nabil Sunu Widyadhana
 - **Jabatan:** Volunteer
 - **TTL:** Bekasi, 15 Maret 2006
